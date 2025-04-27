@@ -1,5 +1,8 @@
 ## Project: Nugget AI - Restaurant Data Scraper & RAG-based Chatbot
 
+![Screenshot 2025-04-27 104834](https://github.com/user-attachments/assets/0f8c588e-30b4-413b-9ccc-f4f066eb998e)
+
+
 ### Overview
 This project combines web scraping and Retrieval-Augmented Generation (RAG) to build a chatbot that can answer natural language questions about restaurants, menus, features, dietary options, and more.
 
