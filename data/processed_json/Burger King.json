@@ -530,6 +530,7 @@
             "sf-kid-friendly",
             "kb-10",
             "delivery-enabled",
+            "bestseller",
             "rating_4"
           ]
         },
@@ -616,6 +617,7 @@
             "sf-not-vegan",
             "kb-14",
             "delivery-enabled",
+            "bestseller",
             "rating_4"
           ]
         },
@@ -733,6 +735,7 @@
             "kb-12",
             "delivery-enabled",
             "dt-sides",
+            "bestseller",
             "rating_4"
           ]
         },
@@ -747,7 +750,6 @@
             "sf-kid-friendly",
             "kb-12",
             "delivery-enabled",
-            "bestseller",
             "rating_4"
           ]
         },
@@ -1912,6 +1914,7 @@
             "services",
             "sf-not-vegan",
             "delivery-enabled",
+            "bestseller",
             "rating_4"
           ]
         },

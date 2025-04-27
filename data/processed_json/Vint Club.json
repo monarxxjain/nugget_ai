@@ -22,14 +22,14 @@
     "Cost for Two: ₹140 for a pint of beer (approx.) ",
     "Highlight: Takeaway Available",
     "Highlight: Full Bar Available",
-    "Highlight: Indoor Seating",
     "Highlight: Live Sports Screening",
     "Highlight: Outdoor Seating",
     "Highlight: Serves Cocktails",
-    "Highlight: Table booking recommended",
+    "Highlight: Indoor Seating",
     "Highlight: Live Music",
     "Highlight: Live Entertainment",
     "Highlight: Family Friendly",
+    "Highlight: Table booking recommended",
     "Cuisine: Chinese",
     "Cuisine: Continental",
     "Cuisine: Italian",
@@ -39,6 +39,165 @@
     "Cuisine: Desserts"
   ],
   "menu": [
+    {
+      "section": "Tandoor Starters",
+      "items": [
+        {
+          "item_name": "Hara Bhara Kebab",
+          "description": "Flavourful mix of spinach, peas, and spices, shaped into patties and lightly fried until crispy, served with mint chutney",
+          "price": 275.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Dahi Ke Sholay",
+          "description": "Spiced hung curd mixed with diced veggies, wrapped in bread and fried to a crispy golden perfection",
+          "price": 475.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-13",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Paneer Malai Tikka",
+          "description": "Creamy preparation of paneer marinated in cream, yogurt, and mild spices, cooked over a Charcoal grill",
+          "price": 400.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Kasoori Paneer Tikka",
+          "description": "Paneer cubes and green capsicum marinated in yoghurt, gram flour and yellow chillies, cooked over a Charcoal grill.",
+          "price": 375.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Paneer Kali Mirch Tikka",
+          "description": "Paneer cubes in creamy yoghurt and kalimirch marination cooked over Charcoal grill.",
+          "price": 375.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Tandoori Soya Chaap",
+          "description": "Soya chaap marinated in yogurt, red chili powder, Indian aromatics & spices, cooked over a Charcoal grill",
+          "price": 275.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Malai Soya Chaap Tikka",
+          "description": "Creamy preparation of soya chaap marinated in cream, yogurt, and mild spices, cooked over a Charcoal grill",
+          "price": 275.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Navratan Kebab",
+          "description": "Smoky and nutty preparation of vegetable and blend of nine nuts, skewered and char-grilled.",
+          "price": 275.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Cheesy Stuffed Mushroom Tikka",
+          "description": "Smoky & flavorful preparation of button mushrooms stuffed with cheese, marinated in a blend of spices and cooked over a Charcoal grill",
+          "price": 300.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Murg Kali Mirch Tikka",
+          "description": "Succulent boneless chicken in creamy yoghurt and kalimirch marination cooked over a Charcoal grill",
+          "price": 400.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Murg Malai Tikka",
+          "description": "Creamy preparation of chicken marinated in cream, yogurt, and mild spices, cooked over a Charcoal grill",
+          "price": 400.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled",
+            "bestseller"
+          ]
+        },
+        {
+          "item_name": "Bhatti Ka Murg",
+          "description": "whole chicken marinated with yoghurts and hot indian spices cooked in Charcoal grill.",
+          "price": 400.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Fish Tikka",
+          "description": "Tender fish marinated in a zesty blend of carom seeds, roasted gram flour and spices, cooked over a Charcoal grill",
+          "price": 500.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
     {
       "section": "Bao",
       "items": [
@@ -73,7 +232,7 @@
         {
           "item_name": "Paneer Tikka Pizza",
           "description": "Thin crust pizza topped with Spicy paneer tikka, onion, capsicum and melted mozzarella cheese",
-          "price": 0.0,
+          "price": 360.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -87,7 +246,7 @@
         {
           "item_name": "Margherita Pizza",
           "description": "Thin crust pizza topped with melted mozzarella cheese, oven dried cherry tomato, basil leaf and basil oil",
-          "price": 0.0,
+          "price": 345.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -99,7 +258,7 @@
         {
           "item_name": "Mushroom Pizza",
           "description": "Thin crust pizza topped with saut�ed mushrooms, olives, tri-color peppers, and melted mozzarella cheese",
-          "price": 0.0,
+          "price": 360.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -111,7 +270,7 @@
         {
           "item_name": "Provinciale Pizza",
           "description": "Thin crust pizza topped with tomato, mushrooms, olives, tri-color peppers, and melted mozzarella cheese",
-          "price": 0.0,
+          "price": 360.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -123,7 +282,7 @@
         {
           "item_name": "Veg Heart Shaped Farmhouse Pizza",
           "description": "Heart-shaped thin crust pizza topped with tomato, mushrooms, olives, tri-color peppers, and melted mozzarella cheese Vegetable /Chicken",
-          "price": 0.0,
+          "price": 360.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -134,7 +293,7 @@
         {
           "item_name": "Cheese & Corn Pizza",
           "description": "Thin crust pizza topped with melted gooey cheese and sweet corn",
-          "price": 0.0,
+          "price": 360.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -146,7 +305,7 @@
         {
           "item_name": "Chicken Tikka Pizza",
           "description": "Smokey BBQ chicken tikka, cheered onion, chili flakes and mozzarella shredded cheese.",
-          "price": 0.0,
+          "price": 405.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -157,7 +316,7 @@
         {
           "item_name": "Non Veg Heart Shaped Farmhouse Pizza",
           "description": "Heart-shaped thin crust pizza topped with tomato, mushrooms, olives, tri-color peppers, and melted mozzarella cheese Vegetable /Chicken",
-          "price": 0.0,
+          "price": 405.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -173,7 +332,7 @@
         {
           "item_name": "Chilli Paneer (Dry)",
           "description": "Paneer cubes cooked with bold spices, bell peppers and a tangy sauce",
-          "price": 0.0,
+          "price": 310.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -185,7 +344,7 @@
         {
           "item_name": "Honey Chilli Lotus Stem",
           "description": "Crispy lotus stem fries drizzled with a tangy honey-chili sauce",
-          "price": 0.0,
+          "price": 310.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -197,7 +356,7 @@
         {
           "item_name": "Vegetable Manchurian (Dry)",
           "description": "Golden-fried vegetable dumplings simmered tossed in Indo-Chinese Sauce",
-          "price": 0.0,
+          "price": 310.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -208,7 +367,7 @@
         {
           "item_name": "Paneer 65",
           "description": "Deep-fried marinated paneer tossed with spices and vegetables",
-          "price": 0.0,
+          "price": 310.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -220,7 +379,7 @@
         {
           "item_name": "Mushroom Chilli (Dry)",
           "description": "Crispy mushroom cooked with bold spices and tangy sauces",
-          "price": 0.0,
+          "price": 310.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -231,7 +390,7 @@
         {
           "item_name": "Crispy Corn Salt & Pepper",
           "description": "Tempura-style battered corn kernels, paired with crunchy bell peppers and fiery hot chillies",
-          "price": 0.0,
+          "price": 280.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -243,7 +402,7 @@
         {
           "item_name": "Kaffir Lime Spring Rolls",
           "description": "Crispy spring rolls filled with vegetables seasoned with kaffir lime and served with a tangy dipping sauce",
-          "price": 0.0,
+          "price": 260.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -254,7 +413,7 @@
         {
           "item_name": "Honey Chilli Potatoes",
           "description": "Crispy potatoes fries tossed in a tangy honey chilli Sauce",
-          "price": 0.0,
+          "price": 245.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -266,7 +425,7 @@
         {
           "item_name": "Crispy Honey Chicken",
           "description": "Crispy chicken strips tossed in a sweet and savory honey sauce",
-          "price": 0.0,
+          "price": 400.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -277,7 +436,7 @@
         {
           "item_name": "Chicken Salt & Paper",
           "description": "Crispy boneless chicken coated in a thick sauce of saut�ed onions, veggies, salt, pepper and aromatic spices",
-          "price": 0.0,
+          "price": 400.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -288,7 +447,7 @@
         {
           "item_name": "Chicken 65",
           "description": "Deep-fried marinated boneless chicken tossed with spices and vegetables",
-          "price": 0.0,
+          "price": 400.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -299,7 +458,7 @@
         {
           "item_name": "Hawker'S Chilli Chicken (Dry)",
           "description": "Tender boneless chicken cooked with bold spices, bell peppers and a tangy sauce topped with spring onion",
-          "price": 0.0,
+          "price": 400.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -310,7 +469,7 @@
         {
           "item_name": "Chicken Lollipop",
           "description": "Chicken marinated in spices, deep-fried to a crispy perfection and tossed in veggies & tangy sauce",
-          "price": 0.0,
+          "price": 430.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -321,7 +480,7 @@
         {
           "item_name": "Fish Chilli (Dry)",
           "description": "Tender fish cuts cooked with bold spices, bell peppers and a tangy sauce topped with spring onion",
-          "price": 0.0,
+          "price": 450.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -431,7 +590,7 @@
         {
           "item_name": "Paneer Do Pyaza",
           "description": "Paneer cooked in desi ghee with double the onions and hot spices",
-          "price": 0.0,
+          "price": 395.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -443,35 +602,33 @@
         {
           "item_name": "Paneer Lababdar",
           "description": "Paneer cubes and grated paneer simmered in rich and creamy, cheese onion tomato sauce cooked with desi ghee..",
-          "price": 0.0,
+          "price": 425.0,
           "currency": "INR",
           "tags": [
             "veg",
             "services",
             "sf-not-vegan",
             "kb-11",
-            "delivery-enabled",
-            "bestseller"
+            "delivery-enabled"
           ]
         },
         {
           "item_name": "Kadhai Paneer",
           "description": "Paneer cooked in Desi ghee with bell peppers, onions, and hot aromatic spices",
-          "price": 0.0,
+          "price": 410.0,
           "currency": "INR",
           "tags": [
             "veg",
             "services",
             "sf-not-vegan",
             "delivery-enabled",
-            "bestseller",
             "rating_4"
           ]
         },
         {
           "item_name": "Paneer Butter Masala",
           "description": "Paneer simmered in a smooth, silky, and buttery makhani gravy, cooked in desi ghee",
-          "price": 0.0,
+          "price": 425.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -483,7 +640,7 @@
         {
           "item_name": "Mushroom Do Pyaaza",
           "description": "Fresh button mushrooms cooked in desi ghee with double the onions and hot spices",
-          "price": 0.0,
+          "price": 365.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -495,7 +652,7 @@
         {
           "item_name": "Tandoori Soya Chaap Masala",
           "description": "Marinated soya chaap cooked in desi ghee with ginger, garlic, yogurt, red chili powder, and turmeric, garnished with fresh coriander",
-          "price": 0.0,
+          "price": 350.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -508,7 +665,7 @@
         {
           "item_name": "Dal Tadka",
           "description": "Cooked lentils tempered with desi ghee fried aromatics, onion and spices",
-          "price": 0.0,
+          "price": 320.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -520,7 +677,7 @@
         {
           "item_name": "Dal Makhani",
           "description": "Creamy dal makhani made with black lentils, kidney beans, and fenugreek leaves, slow-cooked in desi ghee and finished in a clay oven",
-          "price": 0.0,
+          "price": 350.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -533,7 +690,7 @@
         {
           "item_name": "Dum Aloo Banarasi",
           "description": "Steamed and fried baby potatoes simmered in a spicy tomato-onion yogurt curry, cooked in desi ghee",
-          "price": 0.0,
+          "price": 320.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -546,7 +703,7 @@
         {
           "item_name": "Mix Vegetable",
           "description": "Stir-fried mixed vegetables with Indian spices, cooked in desi ghee and garnished with fresh coriander",
-          "price": 0.0,
+          "price": 425.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -560,7 +717,7 @@
         {
           "item_name": "Malai Kofta",
           "description": "Soft paneer koftas in a rich & creamy tomato gravy, infused with aromatic spices and finished with a touch of garam masala",
-          "price": 0.0,
+          "price": 380.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -572,7 +729,7 @@
         {
           "item_name": "Kadhai Chicken",
           "description": "Chicken cooked in Desi ghee with bell peppers, onions, and hot aromatic spices.",
-          "price": 0.0,
+          "price": 450.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -583,7 +740,7 @@
         {
           "item_name": "Chicken Lababdar",
           "description": "Soft and tender chicken cooked with desi ghee simmered in rich creamy and cheese onion tomato sauce.",
-          "price": 0.0,
+          "price": 450.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -594,7 +751,7 @@
         {
           "item_name": "Chicken Do Pyaza",
           "description": "Chicken cooked in Desi ghee with double the onions and hot Indian spices",
-          "price": 0.0,
+          "price": 450.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -605,7 +762,7 @@
         {
           "item_name": "Butter Chicken",
           "description": "Soft and tender chicken cooked in Desi Ghee, simmered in smooth, silky and buttery makhani gravy",
-          "price": 0.0,
+          "price": 450.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -616,7 +773,7 @@
         {
           "item_name": "Chicken Tikka Masala",
           "description": "Boneless chicken marinated in yogurt and Indian spices, cooked in desi ghee and creamy rich tomato based gravy",
-          "price": 0.0,
+          "price": 450.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -627,7 +784,7 @@
         {
           "item_name": "Mutton Do Pyaza",
           "description": "Mutton cooked in Desi ghee with double the onions and hot Indian spices",
-          "price": 0.0,
+          "price": 500.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -638,7 +795,7 @@
         {
           "item_name": "Mutton Bhuna Gosht",
           "description": "Mutton cooked in Desi Ghee, red chilli and aromatic spiced gravy, garnished with coriander and ginger",
-          "price": 0.0,
+          "price": 760.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -651,7 +808,7 @@
         {
           "item_name": "Mutton Roganjosh",
           "description": "Quintessential fiery and feisty mutton bone curry cooked in Desi Ghee, red chilli and Indian hot spices",
-          "price": 0.0,
+          "price": 500.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -826,7 +983,7 @@
         {
           "item_name": "Veg Hakka Noodles",
           "description": "Noodles tossed with stir-fried vegetables and simple Chinese sauces",
-          "price": 0.0,
+          "price": 300.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -837,7 +994,7 @@
         {
           "item_name": "Chilli Paneer (Gravy)",
           "description": "Paneer cubes cooked with bold spices, bell peppers and a tangy sauce",
-          "price": 0.0,
+          "price": 410.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -849,7 +1006,7 @@
         {
           "item_name": "Veg Schezwan Noodle",
           "description": "Noodles stir-fried with mushrooms, baby corn and other veggies in a bold-tangy Schezwan sauce",
-          "price": 0.0,
+          "price": 300.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -861,7 +1018,7 @@
         {
           "item_name": "Mushroom Chilli (Gravy)",
           "description": "Crispy mushroom cooked with bold spices and tangy sauces",
-          "price": 0.0,
+          "price": 410.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -872,7 +1029,7 @@
         {
           "item_name": "Veg Chilli Garlic Noodles",
           "description": "Stir-fried noodles tossed in a bold mix of garlic, chillies and spices for a fiery kick",
-          "price": 0.0,
+          "price": 300.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -884,18 +1041,19 @@
         {
           "item_name": "Vegetable Manchurian (Gravy)",
           "description": "Golden-fried vegetable dumplings simmered tossed in Indo-Chinese Sauce",
-          "price": 0.0,
+          "price": 410.0,
           "currency": "INR",
           "tags": [
             "veg",
             "services",
-            "delivery-enabled"
+            "delivery-enabled",
+            "bestseller"
           ]
         },
         {
           "item_name": "Veg Fried Rice",
           "description": "Rice stir-fried with fresh vegetables, aromatic spices and zesty Asian sauces",
-          "price": 0.0,
+          "price": 250.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -906,7 +1064,7 @@
         {
           "item_name": "Veg Cantonese Pan-Fried Noodles",
           "description": "Veg Pan-fried noodles topped with clear sauce and stir-fried vegetables",
-          "price": 0.0,
+          "price": 300.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -917,7 +1075,7 @@
         {
           "item_name": "Egg Fried Rice",
           "description": "Egg Rice stir-fried with fresh vegetables, aromatic spices and zesty Asian sauces",
-          "price": 0.0,
+          "price": 275.0,
           "currency": "INR",
           "tags": [
             "egg",
@@ -928,7 +1086,7 @@
         {
           "item_name": "Egg Hakka Noodles",
           "description": "Egg Noodles tossed with stir-fried vegetables and simple Chinese sauces",
-          "price": 0.0,
+          "price": 350.0,
           "currency": "INR",
           "tags": [
             "egg",
@@ -939,7 +1097,7 @@
         {
           "item_name": "Egg Cantonese Pan-Fried Noodles",
           "description": "Egg Pan-fried noodles topped with clear sauce and stir-fried vegetables",
-          "price": 0.0,
+          "price": 350.0,
           "currency": "INR",
           "tags": [
             "egg",
@@ -950,7 +1108,7 @@
         {
           "item_name": "Egg Chilli Garlic Noodles",
           "description": "Stir-fried Egg noodles tossed in a bold mix of garlic, chillies and spices for a fiery kick",
-          "price": 0.0,
+          "price": 300.0,
           "currency": "INR",
           "tags": [
             "egg",
@@ -962,7 +1120,7 @@
         {
           "item_name": "Egg Schezwan Noodle",
           "description": "Egg Noodles stir-fried with mushrooms, baby corn and other veggies in a bold-tangy Schezwan sauce",
-          "price": 0.0,
+          "price": 350.0,
           "currency": "INR",
           "tags": [
             "egg",
@@ -974,7 +1132,7 @@
         {
           "item_name": "Chicken Schezwan Noodle",
           "description": "Chicken Noodles stir-fried with mushrooms, baby corn and other veggies in a bold-tangy Schezwan sauce",
-          "price": 0.0,
+          "price": 400.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -986,7 +1144,7 @@
         {
           "item_name": "Non Veg Fried Rice",
           "description": "Chicken Rice stir-fried with fresh vegetables, aromatic spices and zesty Asian sauces",
-          "price": 0.0,
+          "price": 500.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -997,7 +1155,7 @@
         {
           "item_name": "Chicken Hakka Noodles",
           "description": "Chicken Noodles tossed with stir-fried vegetables and simple Chinese sauces",
-          "price": 0.0,
+          "price": 400.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -1008,7 +1166,7 @@
         {
           "item_name": "Chicken Chilli Garlic Noodles",
           "description": "Stir-fried chicken noodles tossed in a bold mix of garlic, chillies and spices for a fiery kick",
-          "price": 0.0,
+          "price": 400.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -1020,7 +1178,7 @@
         {
           "item_name": "Non Veg Cantonese Pan-Fried Noodles",
           "description": "Non veg Pan-fried noodles topped with clear sauce and stir-fried vegetables",
-          "price": 0.0,
+          "price": 400.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -1031,7 +1189,7 @@
         {
           "item_name": "Hawker'S Chilli Chicken (Gravy)",
           "description": "Tender boneless chicken cooked with bold spices, bell peppers and a tangy sauce topped with spring onion",
-          "price": 0.0,
+          "price": 470.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -1042,7 +1200,7 @@
         {
           "item_name": "Fish Chilli( Gravy)",
           "description": "Tender fish cuts cooked with bold spices, bell peppers and a tangy sauce topped with spring onion",
-          "price": 0.0,
+          "price": 500.0,
           "currency": "INR",
           "tags": [
             "non-veg",

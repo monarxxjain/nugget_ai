@@ -22,14 +22,14 @@
     "Cost for Two: ₹140 for a pint of beer (approx.) ",
     "Highlight: Takeaway Available",
     "Highlight: Full Bar Available",
-    "Highlight: Indoor Seating",
     "Highlight: Live Sports Screening",
     "Highlight: Outdoor Seating",
     "Highlight: Serves Cocktails",
-    "Highlight: Table booking recommended",
+    "Highlight: Indoor Seating",
     "Highlight: Live Music",
     "Highlight: Live Entertainment",
     "Highlight: Family Friendly",
+    "Highlight: Table booking recommended",
     "Cuisine: Chinese",
     "Cuisine: Continental",
     "Cuisine: Italian",
@@ -39,6 +39,165 @@
     "Cuisine: Desserts"
   ],
   "menu": [
+    {
+      "section": "Tandoor Starters",
+      "items": [
+        {
+          "item_name": "Hara Bhara Kebab",
+          "description": "Flavourful mix of spinach, peas, and spices, shaped into patties and lightly fried until crispy, served with mint chutney",
+          "price": 275.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Dahi Ke Sholay",
+          "description": "Spiced hung curd mixed with diced veggies, wrapped in bread and fried to a crispy golden perfection",
+          "price": 475.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-13",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Paneer Malai Tikka",
+          "description": "Creamy preparation of paneer marinated in cream, yogurt, and mild spices, cooked over a Charcoal grill",
+          "price": 400.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Kasoori Paneer Tikka",
+          "description": "Paneer cubes and green capsicum marinated in yoghurt, gram flour and yellow chillies, cooked over a Charcoal grill.",
+          "price": 375.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Paneer Kali Mirch Tikka",
+          "description": "Paneer cubes in creamy yoghurt and kalimirch marination cooked over Charcoal grill.",
+          "price": 375.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Tandoori Soya Chaap",
+          "description": "Soya chaap marinated in yogurt, red chili powder, Indian aromatics & spices, cooked over a Charcoal grill",
+          "price": 275.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Malai Soya Chaap Tikka",
+          "description": "Creamy preparation of soya chaap marinated in cream, yogurt, and mild spices, cooked over a Charcoal grill",
+          "price": 275.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Navratan Kebab",
+          "description": "Smoky and nutty preparation of vegetable and blend of nine nuts, skewered and char-grilled.",
+          "price": 275.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Cheesy Stuffed Mushroom Tikka",
+          "description": "Smoky & flavorful preparation of button mushrooms stuffed with cheese, marinated in a blend of spices and cooked over a Charcoal grill",
+          "price": 300.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Murg Kali Mirch Tikka",
+          "description": "Succulent boneless chicken in creamy yoghurt and kalimirch marination cooked over a Charcoal grill",
+          "price": 400.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Murg Malai Tikka",
+          "description": "Creamy preparation of chicken marinated in cream, yogurt, and mild spices, cooked over a Charcoal grill",
+          "price": 400.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled",
+            "bestseller"
+          ]
+        },
+        {
+          "item_name": "Bhatti Ka Murg",
+          "description": "whole chicken marinated with yoghurts and hot indian spices cooked in Charcoal grill.",
+          "price": 400.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Fish Tikka",
+          "description": "Tender fish marinated in a zesty blend of carom seeds, roasted gram flour and spices, cooked over a Charcoal grill",
+          "price": 500.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
     {
       "section": "Bao",
       "items": [
@@ -450,8 +609,7 @@
             "services",
             "sf-not-vegan",
             "kb-11",
-            "delivery-enabled",
-            "bestseller"
+            "delivery-enabled"
           ]
         },
         {
@@ -464,7 +622,6 @@
             "services",
             "sf-not-vegan",
             "delivery-enabled",
-            "bestseller",
             "rating_4"
           ]
         },
@@ -889,7 +1046,8 @@
           "tags": [
             "veg",
             "services",
-            "delivery-enabled"
+            "delivery-enabled",
+            "bestseller"
           ]
         },
         {

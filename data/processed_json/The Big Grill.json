@@ -280,7 +280,7 @@
         {
           "item_name": "Chicken Biryani",
           "description": "Served with salan , mix raita,vinegar onion",
-          "price": 0.0,
+          "price": 445.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -293,19 +293,20 @@
         {
           "item_name": "Chicken Tikka Biryani",
           "description": "Served with salan  mint chutney, mix raita,vinegar onion",
-          "price": 0.0,
+          "price": 465.0,
           "currency": "INR",
           "tags": [
             "non-veg",
             "services",
             "delivery-enabled",
+            "bestseller",
             "rating_4"
           ]
         },
         {
           "item_name": "Mutton Biryani",
           "description": "Served with mint chutney, Salan,mix raita,vinegar onion",
-          "price": 0.0,
+          "price": 495.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -317,7 +318,7 @@
         {
           "item_name": "Paneer Tikka Biryani",
           "description": "Served with salan , mix raita,vinegar onion",
-          "price": 0.0,
+          "price": 345.0,
           "currency": "INR",
           "tags": [
             "veg",
@@ -331,7 +332,7 @@
         {
           "item_name": "Prawns Biryani",
           "description": "Served with Salan,mint chutney, mix raita,vinegar onion",
-          "price": 0.0,
+          "price": 525.0,
           "currency": "INR",
           "tags": [
             "non-veg",
@@ -342,7 +343,7 @@
         {
           "item_name": "Veg Biryani",
           "description": "Served with Salan , mint chutney, mix raita,vinegar onion",
-          "price": 0.0,
+          "price": 325.0,
           "currency": "INR",
           "tags": [
             "veg",

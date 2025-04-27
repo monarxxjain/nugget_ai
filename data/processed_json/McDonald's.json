@@ -487,8 +487,7 @@
             "veg",
             "services",
             "kb-12",
-            "delivery-enabled",
-            "bestseller"
+            "delivery-enabled"
           ]
         },
         {
@@ -1202,6 +1201,7 @@
             "services",
             "kb-10",
             "delivery-enabled",
+            "bestseller",
             "rating_4"
           ]
         },
@@ -1296,6 +1296,7 @@
             "services",
             "kb-10",
             "delivery-enabled",
+            "bestseller",
             "rating_4",
             "ar"
           ]
@@ -1357,6 +1358,7 @@
             "sf-not-vegan",
             "kb-11",
             "delivery-enabled",
+            "bestseller",
             "rating_4",
             "ar"
           ]
@@ -1992,6 +1994,7 @@
             "kb-9",
             "delivery-enabled",
             "dt-sides",
+            "bestseller",
             "rating_4"
           ]
         },
@@ -2316,6 +2319,7 @@
             "delivery-enabled",
             "dt-beverages",
             "dt-breakfast",
+            "bestseller",
             "rating_4"
           ]
         },
