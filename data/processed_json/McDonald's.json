@@ -1,0 +1,2589 @@
+{
+  "restaurant_name": "McDonald's",
+  "description": "Burger, Fast Food, Coffee, Cafe, Beverages",
+  "location": {
+    "address": "4th Floor, Sahara Ganj Mall, Shahnajaf Road, Hazratganj, Lucknow",
+    "city": "Lucknow",
+    "pincode": null,
+    "latitude": 26.864,
+    "longitude": 80.95
+  },
+  "contact": {
+    "phone": "+919811478072",
+    "email": null,
+    "website": null
+  },
+  "operating_hours": {
+    "Mon-Sun": "11am – 10:45pm"
+  },
+  "features": [
+    "Cost for Two: ₹500 for two people (approx.) Exclusive of applicable taxes and charges, if any",
+    "Highlight: Home Delivery",
+    "Highlight: Takeaway Available",
+    "Highlight: Kid Friendly",
+    "Highlight: Mall Parking",
+    "Cuisine: Burger",
+    "Cuisine: Fast Food",
+    "Cuisine: Coffee",
+    "Cuisine: Cafe",
+    "Cuisine: Beverages",
+    "Popular Dishes Ice Cream Strawberry, Chicken Maharaja Mac, Spicy Burger, Peri Peri Fries, Cold Coffee, Sauce"
+  ],
+  "menu": [
+    {
+      "section": "Korean Spicy Range",
+      "items": [
+        {
+          "item_name": "Korean McSpicy®Paneer Meal*",
+          "description": "",
+          "price": 367.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean McSpicy®Paneer Burger*",
+          "description": "Korean Crispy and spicy paneer patty with Gochujang Sauce and crispy lettuce topping  and Red cabbage.",
+          "price": 206.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM Korean McSpicy®Paneer*",
+          "description": "",
+          "price": 352.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large Korean McSpicy® Paneer",
+          "description": "",
+          "price": 376.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean McSpicy®Chicken Meal*",
+          "description": "",
+          "price": 378.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean McSpicy®Chicken Burger*",
+          "description": "Juicy Chicken meat coated in crispy batter with a kick of spice topped with a Gochujang Sauce and crispy lettuce topping and Red cabbage.",
+          "price": 217.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM Korean McSpicy®Chicken*",
+          "description": "",
+          "price": 360.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Korean McSpicy® Chicken",
+          "description": "",
+          "price": 384.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean McAlooTikki Meal*",
+          "description": "",
+          "price": 229.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean McAloo Tikki Burger",
+          "description": "A tikki  delight:Potato and peas patty topped with Gochujang Sauce and onions with toasted buns",
+          "price": 68.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM Korean McAloo Tikki Burger",
+          "description": "",
+          "price": 217.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-7",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Korean McAloo Tikki",
+          "description": "",
+          "price": 242.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "MineCraft Meal",
+      "items": [
+        {
+          "item_name": "Minecraft Veg Surprise Meal",
+          "description": "\"Order the exclusive Minecraft Meal today and get 1-6 FREE collectible cards with your meal! Don’t miss out on this limited-time offer!\"",
+          "price": 263.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-7",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Minecraft Chicken Surprise Meal",
+          "description": "\"Order the exclusive Minecraft Meal today and get 1-6 FREE collectible cards with your meal! Don’t miss out on this limited-time offer!\"",
+          "price": 268.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Minecraft Chicken McNuggets® 9pc",
+          "description": "Bite-sized pieces of breaded boneless chicken, fried and served hot with smoke-flavoured Barbeque Sauce or Mustard Sauce",
+          "price": 209.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Minecraft Small McFlurry® Oreo",
+          "description": "",
+          "price": 93.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Minecraft Small McFlurry® Choc crunch",
+          "description": "",
+          "price": 93.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Deal Of The Day",
+      "items": [
+        {
+          "item_name": "McAloo Tikki Meal",
+          "description": "",
+          "price": 234.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Veg Surprise Meal",
+          "description": "",
+          "price": 255.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-12",
+            "delivery-enabled",
+            "dt-beverages"
+          ]
+        },
+        {
+          "item_name": "Chicken Surprise Meal",
+          "description": "",
+          "price": 255.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-7",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "McEgg Meal",
+          "description": "",
+          "price": 244.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "McCrispy Range",
+      "items": [
+        {
+          "item_name": "Crispy Veggie Burger*",
+          "description": "A crunchy patty made from a blend of 7 exotic veggies, topped with crisp lettuce and a tangy cocktail sauce, all nestled in soft, glazed potato buns. A delightful mix of bold flavours and ultimate satisfaction in every bite.",
+          "price": 196.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "EVM Crispy Veggie*",
+          "description": "",
+          "price": 334.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large Crispy Veggie*",
+          "description": "",
+          "price": 360.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "McCrispy® Chicken*",
+          "description": "Delightfully crispy chicken sandwich with a crispy chicken patty topped with mayonnaise and shredded iceberg lettuce served on a perfectly toasty bun.",
+          "price": 218.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-7",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM McCrispy® Chicken*",
+          "description": "",
+          "price": 357.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Large EVM McCrispy® Chicken",
+          "description": "",
+          "price": 383.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Crispy Veggie Double patty Burger",
+          "description": "A crunchy patty made from a blend of 7 exotic veggies, topped with crisp lettuce and a tangy cocktail sauce, all nestled in soft, glazed potato buns. A delightful mix of bold flavours and ultimate satisfaction in every bite.",
+          "price": 309.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM Crispy Veggie Double patty Burger",
+          "description": "",
+          "price": 447.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Crispy Veggie Double patty Burger",
+          "description": "",
+          "price": 474.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "McCrispy® Chicken Double patty Burger",
+          "description": "A golden, crispy chicken fillet made from whole muscle, paired with fresh lettuce and creamy ranch, all inside soft, glazed potato buns. Packed with bold flavours and pure satisfaction in every bite.",
+          "price": 332.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM McCrispy® Chicken Double patty Burger",
+          "description": "",
+          "price": 470.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM McCrispy® Chicken Double patty Burger",
+          "description": "",
+          "price": 497.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "No Deal Like McDeal",
+      "items": [
+        {
+          "item_name": "VM McVeggie®",
+          "description": "",
+          "price": 198.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "McVeggie VM ®",
+          "description": "",
+          "price": 177.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-12",
+            "delivery-enabled",
+            "bestseller"
+          ]
+        },
+        {
+          "item_name": "Aloo Wrap VM",
+          "description": "",
+          "price": 155.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "VM McChicken®",
+          "description": "",
+          "price": 234.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "McChicken VM®",
+          "description": "",
+          "price": 213.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "VM Chicken McGrill®",
+          "description": "",
+          "price": 198.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Tandoori Chicken Wrap VM",
+          "description": "",
+          "price": 181.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Egg Wrap VM",
+          "description": "",
+          "price": 167.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken McGrill VM®",
+          "description": "",
+          "price": 177.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Extra Value Meal Medium",
+      "items": [
+        {
+          "item_name": "EVM Chicken Surprise",
+          "description": "",
+          "price": 222.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM Veg Maharaja Mac",
+          "description": "",
+          "price": 375.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-9",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM Big Spicy Paneer Wrap",
+          "description": "",
+          "price": 366.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "combo-item",
+            "services",
+            "value-meal",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-11",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "EVM McSpicy® Paneer",
+          "description": "",
+          "price": 340.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-8",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "EVM McVeggie®",
+          "description": "",
+          "price": 260.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "EVM Butter Paneer Grilled Burger",
+          "description": "",
+          "price": 265.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM Veg Surprise",
+          "description": "",
+          "price": 217.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM Schezwan Veg Burger",
+          "description": "",
+          "price": 216.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "combo-item",
+            "services",
+            "value-meal",
+            "sf-spicy",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM McAloo Tikki Burger®",
+          "description": "",
+          "price": 207.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "combo-item",
+            "services",
+            "value-meal",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "EVM Pizza McPuff®",
+          "description": "",
+          "price": 189.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "combo-item",
+            "services",
+            "value-meal",
+            "kb-7",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "EVM Big Spicy Chicken Wrap",
+          "description": "",
+          "price": 386.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "combo-item",
+            "services",
+            "value-meal",
+            "sf-spicy",
+            "kb-11",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "EVM Chicken Maharaja Mac®",
+          "description": "",
+          "price": 386.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-8",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM McNuggets® 9pc",
+          "description": "",
+          "price": 348.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM McSpicy® Chicken",
+          "description": "",
+          "price": 344.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "EVM Filet O Fish®",
+          "description": "",
+          "price": 317.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM McNuggets® 6pc",
+          "description": "",
+          "price": 306.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM McChicken®",
+          "description": "",
+          "price": 281.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM Chicken McGrill®",
+          "description": "",
+          "price": 248.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM McEgg®",
+          "description": "",
+          "price": 199.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Extra Value Meal Large",
+      "items": [
+        {
+          "item_name": "Large EVM Veg Maharaja Mac",
+          "description": "",
+          "price": 399.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Large EVM Big Spicy Paneer Wrap",
+          "description": "",
+          "price": 390.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "combo-item",
+            "services",
+            "value-meal",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM McSpicy® Paneer",
+          "description": "",
+          "price": 365.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Large EVM McVeggie®",
+          "description": "",
+          "price": 284.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Butter Paneer Grilled Burger",
+          "description": "",
+          "price": 284.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Veg Surprise",
+          "description": "",
+          "price": 245.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM McAloo Tikki Burger®",
+          "description": "",
+          "price": 231.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "combo-item",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Pizza McPuff®",
+          "description": "",
+          "price": 213.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "value-meal",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Big Spicy Chicken Wrap",
+          "description": "",
+          "price": 411.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "combo-item",
+            "services",
+            "value-meal",
+            "sf-spicy",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Chicken Maharaja Mac®",
+          "description": "",
+          "price": 411.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM McNuggets® 9pc",
+          "description": "",
+          "price": 373.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Chicken Surprise",
+          "description": "",
+          "price": 250.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM McSpicy® Chicken",
+          "description": "",
+          "price": 368.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Filet O Fish®",
+          "description": "",
+          "price": 342.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM McNuggets® 6pc",
+          "description": "",
+          "price": 330.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM McChicken®",
+          "description": "",
+          "price": 305.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Chicken McGrill®",
+          "description": "",
+          "price": 273.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM McEgg®",
+          "description": "",
+          "price": 223.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Aloo Wrap",
+          "description": "",
+          "price": 260.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Tandoori Chicken Wrap",
+          "description": "",
+          "price": 277.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Egg Wrap",
+          "description": "",
+          "price": 271.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Happy Meal",
+      "items": [
+        {
+          "item_name": "Happy Meal McAloo Tikki Burger*",
+          "description": "Combo of your Favorite Burger with choice of Beverage and Surprise Toy!",
+          "price": 179.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "value-meal",
+            "new-launch",
+            "kb-8",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Happy Meal-Chicken McGrill*",
+          "description": "Combo of your Favorite Burger with choice of Beveraget and Surprise Toy!",
+          "price": 222.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "HappyMeal-McVeggie *",
+          "description": "Combo of your Favorite Burger with choice of Beverage and Surprise Toy!",
+          "price": 227.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "HappyMeal Chicken McNuggets Meal*",
+          "description": "Combo of your Favorite Burger with choice of Beverage and Surprise Toy!",
+          "price": 227.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "new-launch",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Burgers",
+      "items": [
+        {
+          "item_name": "Veg Maharaja Mac",
+          "description": "Big Mac sesame seeds bun, with rich and crusty cheesy corn patty, topped with chunky vegetable-cocktail sauce served with pungent jalapeño slices, red onion slices, tomato slices, Cheddar cheese slice and crisp iceberg lettuce.",
+          "price": 237.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "McSpicy® Paneer",
+          "description": "Crispy and spicy paneer patty with creamy tandoori sauce and crispy lettuce topping.",
+          "price": 197.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "McVeggie®",
+          "description": "A patty made of potatoes, peas, carrots, beans, onions, red capsicum and a selection of Indian spices, topped with crispy lettuce, mayonnaise, packed into sesame toasted buns.",
+          "price": 118.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "McAloo Tikki Burger ®",
+          "description": "A tikki delight: Potato and peas patty topped with veg sauce, ketchup, tomatoes and onions with toasted buns",
+          "price": 58.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-7",
+            "delivery-enabled",
+            "bestseller",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Butter Paneer Grilled",
+          "description": "Mildly spiced grilled paneer patty topped with makhani sauce and shredded onions placed between freshly toasted sesame seeded buns",
+          "price": 121.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Veg-Surprise Burger*",
+          "description": "A surprise that will leave you wide-eyed. A scrumptious potato patty topped with a delectable Italian herb sauce and shredded onions placed between perfectly toasted buns.",
+          "price": 79.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Maharaja Mac®",
+          "description": "Chunky juicy grilled chicken patty with fresh and premium ingredients such as jalapeño, onion, Cheddar cheese, tomatoes and crunchy lettuce, dressed with classic Habanero sauce.",
+          "price": 247.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Filet O Fish®",
+          "description": "Made with Alaskan Pollock sourced from sustainable fisheries, topped with cheese slice and creamy tartar sauce, served on a soft, steamed bun.",
+          "price": 194.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "McSpicy® Chicken",
+          "description": "Juicy Chicken meat coated in crispy batter with a kick of spice topped with a creamy sauce and crispy lettuce.",
+          "price": 201.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "bestseller",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "McChicken®",
+          "description": "Delightfully crispy chicken sandwich with a crispy chicken patty topped with mayonnaise and shredded iceberg lettuce served on a perfectly toasty bun.",
+          "price": 151.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4",
+            "ar"
+          ]
+        },
+        {
+          "item_name": "Chicken McGrill®",
+          "description": "Grilled chicken patty served with freshly toasted bun, tomatoes, onions and cool mint sauce",
+          "price": 106.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4",
+            "ar"
+          ]
+        },
+        {
+          "item_name": "Chicken-Surprise",
+          "description": "chicken patty served with freshly toasted bun,onions and Roasted Chipotle Sauce",
+          "price": 79.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "McEgg®",
+          "description": "An Egg lover's delight! A unique combination of perfectly steamed egg, classic mayonnaise and chopped onions with a sprinkling of magic masala sandwiched in a toasted bun.",
+          "price": 68.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Wraps",
+      "items": [
+        {
+          "item_name": "Big Spicy Paneer Wrap",
+          "description": "Tender paneer patty with a fiery, crunchy batter coating, dressed with fresh veggies and seasonings, topped with creamy sauce and a dash of mustard and melted cheese.",
+          "price": 236.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-11",
+            "delivery-enabled",
+            "rating_4",
+            "ar"
+          ]
+        },
+        {
+          "item_name": "EVM Aloo Wrap",
+          "description": "",
+          "price": 233.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Aloo Wrap",
+          "description": "Aloo Tikki patty topped with tandoori sauce, onions and lettuce wrapped in a tortilla.",
+          "price": 91.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-11",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Big Spicy Chicken Wrap",
+          "description": "Juicy chicken coated with hot and crispy batter, dressed with fresh salad of lettuce, onions, tomatoes and seasonings. Served with creamy sauce and supple cheese slices.",
+          "price": 248.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-11",
+            "delivery-enabled",
+            "rating_4",
+            "ar"
+          ]
+        },
+        {
+          "item_name": "EVM Tandoori Chicken Wrap",
+          "description": "",
+          "price": 260.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM Egg Wrap",
+          "description": "",
+          "price": 248.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Tandoori Chicken Wrap",
+          "description": "Grilled chicken patty topped with tandoori sauce, onions and lettuce wrapped in a tortilla.",
+          "price": 114.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Egg Wrap",
+          "description": "Egg patty topped with tandoori sauce, onions and lettuce wrapped in a tortilla.",
+          "price": 102.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Double Patty Burgers & Meals",
+      "items": [
+        {
+          "item_name": "Large EVM McSpicy Paneer® Double patty Burger",
+          "description": "",
+          "price": 492.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "combo-item",
+            "services",
+            "value-meal",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM McSpicy Paneer® Double patty Burger",
+          "description": "",
+          "price": 459.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "value-meal",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM McVeggie® Double patty Burger",
+          "description": "",
+          "price": 336.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "combo-item",
+            "services",
+            "value-meal",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "McSpicy Paneer® Double patty Burger",
+          "description": "Crispy and spicy paneer patty with creamy tandoori sauce and crispy lettuce topping.",
+          "price": 316.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "value-meal",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM McVeggie® Double patty Burger",
+          "description": "",
+          "price": 307.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Veg Surprise Double patty",
+          "description": "",
+          "price": 274.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-11",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Large EVM McAloo Tikki Burger® Double patty",
+          "description": "",
+          "price": 265.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM Dbl Veg Surprise Double patty",
+          "description": "",
+          "price": 250.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-11",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "EVM McAloo Tikki Burger® Double patty",
+          "description": "",
+          "price": 239.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "combo-item",
+            "services",
+            "value-meal",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "McVeggie® Double patty Burger",
+          "description": "A patty made of potatoes, peas, carrots, beans, onions, red capsicum and a selection of Indian spices, topped with crispy lettuce, mayonnaise, packed into sesame toasted buns.",
+          "price": 173.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "value-meal",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Butter Paneer Grilled Double patty Burger",
+          "description": "Mildly spiced grilled paneer patty topped with makhani sauce and shredded onions placed between freshly toasted sesame seeded buns",
+          "price": 208.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM Butter Paneer Grilled Double Patty Burger",
+          "description": "",
+          "price": 340.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Butter Paneer Grilled Double Patty Burger",
+          "description": "",
+          "price": 365.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Veg Surprise Double patty",
+          "description": "",
+          "price": 110.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-11",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "McAloo Tikki Burger® Double patty",
+          "description": "A tikki delight: Potato and peas patty topped with veg sauce, ketchup, tomatoes and onions with toasted buns",
+          "price": 89.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "combo-item",
+            "services",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM McSpicy Chicken® Double patty Burger",
+          "description": "",
+          "price": 498.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "combo-item",
+            "services",
+            "value-meal",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Filet O Fish® Double patty Burger",
+          "description": "",
+          "price": 482.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "combo-item",
+            "services",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Chicken Surprise* Double patty Burger",
+          "description": "",
+          "price": 274.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM McSpicy Chicken® Double patty Burger",
+          "description": "",
+          "price": 466.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "combo-item",
+            "services",
+            "value-meal",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM Chicken Surprise Double patty Burger",
+          "description": "",
+          "price": 250.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM McChicken® Double patty Burger",
+          "description": "",
+          "price": 390.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "value-meal",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM Filet O Fish® Double patty Burger",
+          "description": "",
+          "price": 460.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "value-meal",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM McChicken® Double patty Burger",
+          "description": "",
+          "price": 366.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "McSpicy Chicken® Double patty Burger",
+          "description": "Juicy Chicken meat coated in crispy batter with a kick of spice topped with a creamy sauce and crispy lettuce.",
+          "price": 339.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "combo-item",
+            "services",
+            "value-meal",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Surprise Double patty Burger",
+          "description": "Delightfully crispy chicken sandwich with a crispy chicken patty topped with mayonnaise and  served on a perfectly toasty bun.",
+          "price": 110.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Large EVM Chicken McGrill® Double patty Burger",
+          "description": "",
+          "price": 331.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "value-meal",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Filet O Fish® Double patty Burger",
+          "description": "Made with Alaskan Pollock sourced from sustainable fisheries, topped with cheese slice and creamy tartar sauce, served on a soft, steamed bun.",
+          "price": 334.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "combo-item",
+            "services",
+            "value-meal",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "EVM Chicken McGrill® Double patty Burger",
+          "description": "",
+          "price": 307.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "value-meal",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "McChicken® Double patty Burger",
+          "description": "Delightfully crispy chicken sandwich with a crispy chicken patty topped with mayonnaise and shredded iceberg lettuce served on a perfectly toasty bun.",
+          "price": 238.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "value-meal",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken McGrill® Double patty Burger",
+          "description": "2 Grilled chicken patties served with freshly toasted bun, tomatoes, onions and cool mint sauce",
+          "price": 168.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "combo-item",
+            "services",
+            "value-meal",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Match Day Combo",
+      "items": [
+        {
+          "item_name": "Match Night Combo-veg",
+          "description": "",
+          "price": 269.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Match Night Combo-Non-veg",
+          "description": "",
+          "price": 519.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Cricket Wali Party Combo-Non -veg",
+          "description": "",
+          "price": 329.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "House Party wali Meal-Non-veg",
+          "description": "",
+          "price": 649.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Sides",
+      "items": [
+        {
+          "item_name": "Korean McFlavor Fries*",
+          "description": "Hi, it’s McFlavor on this side! The all-time favourite fries with a generous dollop of McFlavor yet smoky chipotle sauce and Gochujang Sauce",
+          "price": 148.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-9",
+            "delivery-enabled",
+            "dt-sides"
+          ]
+        },
+        {
+          "item_name": "McFlavor Fries (Med.)",
+          "description": "Hi, it’s McFlavor on this side! The all-time favourite fries with a generous dollop of McFlavor yet smoky chipotle sauce.",
+          "price": 147.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-9",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "McFlavor Fries (Reg.)",
+          "description": "Hi, it’s McFlavor on this side! The all-time favourite fries with a generous dollop of McFlavor yet smoky chipotle sauce.",
+          "price": 114.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-9",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Medium-Fries",
+          "description": "World Famous Fries®. These epic, fan-favourite fries are crispy and golden on the outside and fluffy on the inside.",
+          "price": 118.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-9",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Large Fries",
+          "description": "World Famous Fries®. These epic, fan-favourite fries are crispy and golden on the outside and fluffy on the inside.",
+          "price": 132.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-9",
+            "delivery-enabled",
+            "dt-sides",
+            "bestseller",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Small Fries",
+          "description": "World Famous Fries®. These epic, fan-favourite fries are crispy and golden on the outside and fluffy on the inside.",
+          "price": 95.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-9",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Pizza McPuff®",
+          "description": "Blend of assorted vegetables [carrot, beans, capsicum, onion and green peas], mozzarella cheese mixed with tomato sauce and exotic spices stuffed in rectangle shaped savoury dough",
+          "price": 49.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-9",
+            "delivery-enabled",
+            "dt-sides",
+            "bestseller",
+            "rating_4",
+            "ar"
+          ]
+        },
+        {
+          "item_name": "Piri Piri Seasoning",
+          "description": "The perfect, taste bud tingling partner for our world-famous fries. Shake shake, and dive in!",
+          "price": 23.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-9",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Chicken McNuggets® 20pc",
+          "description": "Bite-sized pieces of breaded boneless chicken, fried and served hot with smoke-flavoured Barbeque Sauce or Mustard Sauce",
+          "price": 397.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Chicken McNuggets® 9pc",
+          "description": "Bite-sized pieces of breaded boneless chicken, fried and served hot with smoke-flavoured Barbeque Sauce or Mustard Sauce",
+          "price": 209.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Chicken McNuggets® 6pc",
+          "description": "Bite-sized pieces of breaded boneless chicken, fried and served hot with smoke-flavoured Barbeque Sauce or Mustard Sauce",
+          "price": 161.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Medium Fries",
+          "description": "World Famous Fries®. These epic, fan-favourite fries are crispy and golden on the outside and fluffy on the inside.",
+          "price": 118.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-9",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Desserts",
+      "items": [
+        {
+          "item_name": "Chocolate Brownie Sundae",
+          "description": "",
+          "price": 115.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "reusable-confidence-score-1",
+            "kb-5",
+            "delivery-enabled",
+            "dt-ice cream",
+            "dt-desserts",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "McFlurry® Oreo",
+          "description": "",
+          "price": 127.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-11",
+            "delivery-enabled",
+            "dt-desserts",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "McFlurry® Choc Crunch",
+          "description": "",
+          "price": 127.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "dt-desserts"
+          ]
+        },
+        {
+          "item_name": "StrawberrySundae",
+          "description": "",
+          "price": 91.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "dt-ice cream",
+            "dt-desserts"
+          ]
+        },
+        {
+          "item_name": "Chocolate Sundae",
+          "description": "",
+          "price": 91.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "reusable-confidence-score-1",
+            "kb-5",
+            "delivery-enabled",
+            "dt-desserts",
+            "dt-ice cream",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Small McFlurry® Oreo",
+          "description": "",
+          "price": 93.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "reusable-confidence-score-1",
+            "kb-10",
+            "delivery-enabled",
+            "dt-desserts",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Small McFlurry® Choc crunch",
+          "description": "",
+          "price": 93.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "dt-desserts",
+            "rating_4"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "items": [
+        {
+          "item_name": "Large Coke ®",
+          "description": "",
+          "price": 104.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-5",
+            "delivery-enabled",
+            "dt-beverages",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Large Fanta",
+          "description": "",
+          "price": 104.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "dt-beverages"
+          ]
+        },
+        {
+          "item_name": "Large Sprite",
+          "description": "",
+          "price": 104.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-5",
+            "delivery-enabled",
+            "dt-beverages"
+          ]
+        },
+        {
+          "item_name": "Medium Coke",
+          "description": "",
+          "price": 98.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-5",
+            "delivery-enabled",
+            "dt-beverages",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Medium Fanta",
+          "description": "",
+          "price": 98.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "dt-beverages"
+          ]
+        },
+        {
+          "item_name": "Medium Sprite",
+          "description": "",
+          "price": 98.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-5",
+            "delivery-enabled",
+            "dt-beverages"
+          ]
+        },
+        {
+          "item_name": "Cold Coffee",
+          "description": "A rich smooth creamy cold coffee made with coffee powder and milk.",
+          "price": 122.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled",
+            "dt-beverages",
+            "dt-breakfast",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Chocolate Milk shake",
+          "description": "Specially curated milk based beverage for indian kids with rich chocolate taste and no artificial colors, flavors & preservatives",
+          "price": 75.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled",
+            "dt-beverages",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Minute Maid Pulpy Orange",
+          "description": "",
+          "price": 95.23,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "minute-maid",
+            "mrp-item",
+            "non-gold",
+            "non-promo",
+            "packaged",
+            "non-refundable",
+            "commission-free",
+            "services",
+            "mrp-commission",
+            "kb-10",
+            "delivery-enabled",
+            "dt-beverages",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Korean Yuzu Fizz*",
+          "description": "",
+          "price": 91.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-11",
+            "delivery-enabled",
+            "dt-beverages"
+          ]
+        },
+        {
+          "item_name": "Small Coke ®",
+          "description": "",
+          "price": 81.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-5",
+            "delivery-enabled",
+            "dt-beverages",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Small Fanta",
+          "description": "",
+          "price": 81.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "dt-beverages"
+          ]
+        },
+        {
+          "item_name": "Small Sprite",
+          "description": "",
+          "price": 81.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "reusable-confidence-score-2",
+            "kb-5",
+            "delivery-enabled",
+            "dt-beverages"
+          ]
+        },
+        {
+          "item_name": "Black Coffee",
+          "description": "",
+          "price": 81.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled",
+            "dt-beverages",
+            "dt-breakfast",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Fresh Brew Coffee W Milk",
+          "description": "",
+          "price": 86.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled",
+            "dt-beverages",
+            "dt-breakfast",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Coke® Zero Can",
+          "description": "",
+          "price": 57.14,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "coke",
+            "mrp-item",
+            "non-gold",
+            "non-promo",
+            "packaged",
+            "non-refundable",
+            "commission-free",
+            "services",
+            "mrp-commission",
+            "kb-3",
+            "delivery-enabled",
+            "dt-beverages",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Masala Chai",
+          "description": "Masala chai is a smooth and spicy blend of natural tea extract, milk solids, black pepper, fennel, clove and cinnamon.",
+          "price": 56.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled",
+            "dt-beverages",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Schweppes™ Bottled Water",
+          "description": "",
+          "price": 57.14,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "packaged",
+            "non-refundable",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "dt-beverages"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Condiments",
+      "items": [
+        {
+          "item_name": "Barbeque Dip",
+          "description": "",
+          "price": 22.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "dt-sides"
+          ]
+        },
+        {
+          "item_name": "Mustard Dip",
+          "description": "",
+          "price": 22.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "dt-sides"
+          ]
+        },
+        {
+          "item_name": "Chilli Sauce",
+          "description": "",
+          "price": 1.9,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Ketchup",
+          "description": "",
+          "price": 0.95,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "dt-sides"
+          ]
+        },
+        {
+          "item_name": "Smoky Chipotle Sauce",
+          "description": "Smoky Chipotle Sauce",
+          "price": 29.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "rating": 1.0,
+      "review_text": ""
+    },
+    {
+      "rating": 1.0,
+      "review_text": "Bad bad bad  quality  online purchases"
+    },
+    {
+      "rating": 1.0,
+      "review_text": "poor delivery timing all items are cold issue over timing very bad work"
+    },
+    {
+      "rating": 5.0,
+      "review_text": ""
+    },
+    {
+      "rating": 2.0,
+      "review_text": "delivery was too late and the burger was so dry and not at all fresh...."
+    }
+  ]
+}

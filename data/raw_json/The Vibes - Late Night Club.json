@@ -1,0 +1,52 @@
+{
+  "restaurant_name": "The Vibes - Late Night Club",
+  "description": "Chinese, Pizza, North Indian",
+  "location": {
+    "address": "Ground Floor, Tower B, Bhavya Corporate Tower, Vibhuti Khand, Gomti Nagar, Lucknow",
+    "city": "Lucknow",
+    "pincode": null,
+    "latitude": 26.864,
+    "longitude": 80.95
+  },
+  "contact": {
+    "phone": "+917084199999",
+    "email": null,
+    "website": null
+  },
+  "operating_hours": {
+    "Mon-Sun": "12noon – 11:45pm"
+  },
+  "features": [
+    "Cost for Two: ₹1,500 for two people (approx.) Without alcohol Exclusive of applicable taxes and charges, if any",
+    "Highlight: Home Delivery",
+    "Highlight: Takeaway Available",
+    "Highlight: Full Bar Available",
+    "Highlight: Indoor Seating",
+    "Cuisine: Chinese",
+    "Cuisine: Pizza",
+    "Cuisine: North Indian"
+  ],
+  "menu": [],
+  "reviews": [
+    {
+      "rating": 1.0,
+      "review_text": "One of the worst club in gomti nagar the manager here is pathetic they charged extra money and didn’t accepted  zomato offer and said this is third party app we don’t count it and they included each and every extra charges in the bill. I don’t recommend anyone to go here."
+    },
+    {
+      "rating": 5.0,
+      "review_text": "If you’re looking for a place where food is treated with the respect it deserves, look no further than The Club. Highly recommended!"
+    },
+    {
+      "rating": 5.0,
+      "review_text": "nice 👍🙂"
+    },
+    {
+      "rating": 1.0,
+      "review_text": "one of the worst night club, I was not allowed to checkout the club. the receptionist was the worst "
+    },
+    {
+      "rating": 5.0,
+      "review_text": "Mohit bhai is awesome"
+    }
+  ]
+}

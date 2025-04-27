@@ -1,0 +1,467 @@
+{
+  "restaurant_name": "The Big Grill",
+  "description": "Seafood, Salad, North Indian, Oriental, Desserts, Beverages, Street Food, Italian",
+  "location": {
+    "address": "Pheonix Palassio, Sector 7, Gomti Nagar, Lucknow",
+    "city": "Lucknow",
+    "pincode": null,
+    "latitude": 26.864,
+    "longitude": 80.95
+  },
+  "contact": {
+    "phone": "+919919991020, +919919991030",
+    "email": null,
+    "website": null
+  },
+  "operating_hours": {
+    "Mon-Sun": "12noon – 4pm, 6:30pm – 10:30pm"
+  },
+  "features": [
+    "Cost for Two: ₹1,800 for two people (approx.) Exclusive of applicable taxes and charges, if any",
+    "Highlight: Home Delivery",
+    "Highlight: Takeaway Available",
+    "Highlight: Buffet",
+    "Highlight: Indoor Seating",
+    "Highlight: Family Friendly",
+    "Highlight: Mall Parking",
+    "Cuisine: Seafood",
+    "Cuisine: Salad",
+    "Cuisine: North Indian",
+    "Cuisine: Oriental",
+    "Cuisine: Desserts",
+    "Cuisine: Beverages",
+    "Cuisine: Street Food",
+    "Cuisine: Italian",
+    "Popular Dishes Prawns, Buffet, Desserts, Starters, Drinks"
+  ],
+  "menu": [
+    {
+      "section": "Combos",
+      "items": [
+        {
+          "item_name": "Butter Chicken Meal Steam Rice Or Lacha Paratha 2Nos",
+          "description": "Butter Chicken is served with your choice of steamed white rice or soft, flaky Lacha Paratha, offering a rich and creamy indulgence.",
+          "price": 355.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Dal Makhani With Steam Rice Or Lacha Paratha 2Nos",
+          "description": "Dal Makhani is served with your choice of steamed white rice or soft, flaky Lacha Paratha, offering a creamy and flavorful experience.",
+          "price": 325.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-15",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Egg Cury With Steam Rice Or Lacha Paratha 2Nos",
+          "description": "Egg Curry Meal includes two boiled eggs in a flavorful curry, served with a choice of steamed white rice or flaky Lacha Paratha.",
+          "price": 225.0,
+          "currency": "INR",
+          "tags": [
+            "egg",
+            "services",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Iftari Platter",
+          "description": "A delicious Iftari platter featuring 2 pieces of chicken tikka, 2 pieces of fish tikki, 4 pieces of grill pineapple, 4 pieces of khajoor, 1 piece of chicken biryani, and 2 pieces of angoori gulab jamun.",
+          "price": 525.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Mirchi Salan Ka Kadhi Pakoda With Steam Rice Or Lacha Paratha 2Nos",
+          "description": "Mirchi Salan with Khadhi Pakoda is served with your choice of steamed white rice or flaky Lacha Paratha, offering a tangy, spicy curry.",
+          "price": 255.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Mutton Rogan Josh With Steam Rice Or Lacha Paratha 2Nos",
+          "description": "Mutton Roghan Josh is served with your choice of steamed white rice or warm, buttery Lacha Paratha, delivering a rich, aromatic curry experience.",
+          "price": 425.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Paneer Butter Masala With Steam Rice Or Lacha Paratha 2Nos",
+          "description": "Paneer Butter Masala is served with your choice of steamed white rice or flaky Lacha Paratha, offering a creamy, flavorful experience",
+          "price": 345.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-13",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Pindi Cholla With White Rice",
+          "description": "Pindi Chole is served with your choice of steamed white rice or soft, flaky Lacha Paratha, offering a flavorful and hearty chickpea curry.",
+          "price": 255.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Veg Green Thai Curry With White Rice",
+          "description": "Veg Green Thai Curry is served with your choice of steamed white rice or soft Lacha Paratha, offering a fragrant, spicy, and coconut-based vegetable curry.",
+          "price": 345.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Starters",
+      "items": [
+        {
+          "item_name": "Chicken Dim Sum",
+          "description": "Chicken Dim Sum is a savory dumpling filled with seasoned minced chicken, steamed to perfection for a delicate, flavorful bite.",
+          "price": 225.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Tikka Boneless 8Pc",
+          "description": "Tandoori Chicken Tikka is a popular appetizer featuring succulent chicken pieces marinated in spiced yogurt and grilled to smoky perfection.",
+          "price": 395.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Tandoori Chicken Wings 12Pcs",
+          "description": "Tandoori Chicken Wings are tender, juicy wings marinated in a blend of spices and yogurt, then grilled to a smoky, charred finish.",
+          "price": 355.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Tandoori Paneer Tikka 8Pc",
+          "description": "Tandoori Paneer Tikka is a delicious vegetarian dish made with paneer cubes marinated in spiced yogurt and grilled until crispy and smoky.",
+          "price": 375.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Tandoori Tangadi 4Pc",
+          "description": "Tandoori Tangadi is a flavorful dish of chicken drumsticks marinated in aromatic spices and cooked to perfection in a tandoor.",
+          "price": 395.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Veg Dim Sum",
+          "description": "Veg Dim Sum is a tasty assortment of bite-sized dumplings filled with a flavorful mix of vegetables, steamed to perfection.",
+          "price": 175.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-13",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Main Course",
+      "items": [
+        {
+          "item_name": "Butter Chicken",
+          "description": "Butter Chicken is a rich and creamy dish featuring tender chicken cooked in a smooth, spiced tomato-based gravy.",
+          "price": 475.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Dal Makhani",
+          "description": "Dal Makhani is a creamy and rich North Indian dish made with slow-cooked black lentils and kidney beans, seasoned with aromatic spices and finished with butter and cream.",
+          "price": 375.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Mutton Rogan Josh",
+          "description": "Mutton Roghan Josh is a flavorful Kashmiri dish featuring tender mutton cooked in a fragrant, aromatic curry with a blend of spices and yogurt.",
+          "price": 575.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Paneer Butter Masala",
+          "description": "Paneer Butter Masala is a rich and creamy dish featuring soft paneer cubes cooked in a flavorful tomato-based gravy with butter and aromatic spices.",
+          "price": 445.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Biryani",
+      "items": [
+        {
+          "item_name": "Chicken Biryani",
+          "description": "Served with salan , mix raita,vinegar onion",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Chicken Tikka Biryani",
+          "description": "Served with salan  mint chutney, mix raita,vinegar onion",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Mutton Biryani",
+          "description": "Served with mint chutney, Salan,mix raita,vinegar onion",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-15",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Paneer Tikka Biryani",
+          "description": "Served with salan , mix raita,vinegar onion",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled",
+            "bestseller",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Prawns Biryani",
+          "description": "Served with Salan,mint chutney, mix raita,vinegar onion",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Veg Biryani",
+          "description": "Served with Salan , mint chutney, mix raita,vinegar onion",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Desserts",
+      "items": [
+        {
+          "item_name": "Angoori Gulab Jamun 12Pcs",
+          "description": "Angoori Gulab Jamun consists of soft, bite-sized dumplings soaked in aromatic sugar syrup, offering a deliciously sweet and indulgent treat.",
+          "price": 185.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "category-slab-1",
+            "kb-5",
+            "delivery-enabled",
+            "dt-desserts",
+            "dt-sweets"
+          ]
+        },
+        {
+          "item_name": "Hot Chocolate Brownie 6Pcs",
+          "description": "Hot Chocolate Brownie is a decadent, warm, and fudgy chocolate dessert, served with a rich, gooey center for the perfect indulgence.",
+          "price": 175.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-5",
+            "delivery-enabled",
+            "dt-desserts"
+          ]
+        },
+        {
+          "item_name": "Moong Dal Halwa",
+          "description": "Moong Dal Halwa is a rich and aromatic Indian dessert made from ground yellow lentils, ghee, sugar, and cardamom, cooked to a warm, smooth consistency.",
+          "price": 195.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "category-slab-1",
+            "sf-mithai",
+            "sf-not-vegan",
+            "delivery-enabled",
+            "dt-sweets"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Breads",
+      "items": [
+        {
+          "item_name": "Butter Naan",
+          "description": "",
+          "price": 75.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "goods",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Butter Roti",
+          "description": "",
+          "price": 55.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "goods",
+            "sf-not-vegan",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Lachha Pratha",
+          "description": "",
+          "price": 65.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "rating": 5.0,
+      "review_text": "Sandeep Soni served us in excellent way ."
+    },
+    {
+      "rating": 5.0,
+      "review_text": "Wonderful Dish, Ample Quantity "
+    },
+    {
+      "rating": 5.0,
+      "review_text": "Sandeep Soni was very good while serving and briefings the entire setup"
+    },
+    {
+      "rating": 5.0,
+      "review_text": "Bass washroom nahi h"
+    },
+    {
+      "rating": 5.0,
+      "review_text": "food was good for the price . mutton dish washing amazing . rest are regular ..cost was affordable "
+    }
+  ]
+}

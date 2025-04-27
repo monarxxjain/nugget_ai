@@ -1,0 +1,2477 @@
+{
+  "restaurant_name": "Burger King",
+  "description": "Burger, Fast Food, Desserts, Beverages",
+  "location": {
+    "address": "Ground Floor, Sahu The Theatre Building, Hazratganj, Lucknow",
+    "city": "Lucknow",
+    "pincode": null,
+    "latitude": 26.864,
+    "longitude": 80.95
+  },
+  "contact": {
+    "phone": "+919305836841",
+    "email": null,
+    "website": null
+  },
+  "operating_hours": {
+    "Mon-Sun": "12midnight – 5am, 9am – 12midnight"
+  },
+  "features": [
+    "Cost for Two: ₹350 for two people (approx.) Exclusive of applicable taxes and charges, if any",
+    "Highlight: Takeaway Available",
+    "Highlight: Indoor Seating",
+    "Highlight: Serves Jain Food",
+    "Cuisine: Burger",
+    "Cuisine: Fast Food",
+    "Cuisine: Desserts",
+    "Cuisine: Beverages"
+  ],
+  "menu": [
+    {
+      "section": "Korean Spicy Fest(Limited Time Only)",
+      "items": [
+        {
+          "item_name": "Korean Spicy Paneer Burger.",
+          "description": "\"Crunchy Soft Paneer patty dunked in hot and sweet Korean glaze with Korean sesame mayo in premium Brioche buns for authentic Korean flavours. \nQty: 228 Gms| Kcal: 695.26 | Carbs 67.94 Gms| Sugar: 16.99 Gms| Fat: 38.07 Gms| Saturated fat: 15.82 Gms| Protein: 20.20 Gms| Sodium: 1744.70 Mg \nContains: Gluten, Soybean , Milk \"",
+          "price": 299.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Chicken Burger.",
+          "description": "\"Crunchy Juicy whole muscle chicken patty dunked in hot and sweet Korean glaze with Korean sesame mayo in premium Brioche buns for authentic Korean flavours \nQty: 227 Gms| Kcal: 607.27 | Carbs 55.14 Gms| Sugar: 31.59 Gms| Fat: 31.59 Gms| Saturated fat: 11.58 Gms| Protein: 25.58 Gms| Sodium: 1793.87 Mg \nContains: Gluten, Soybean , Milk \"",
+          "price": 299.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Fries.",
+          "description": "\"Cheesy Fries with hot and sweet Korean glaze. \nQty: 174 Gms| Kcal: 496.70 | Carbs 53.57 Gms| Sugar: 10.88 Gms| Fat: 28.29 Gms| Saturated fat: 10.14 Gms| Protein: 6.94 Gms| Sodium: 1469.93 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds\"",
+          "price": 159.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "2Crispy Veg Double Patty Burger+Korean Spicy Fries.",
+          "description": "",
+          "price": 357.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Chicken (4 Pc)",
+          "description": "\"Boneless Chicken dunked in hot and sweet Korean glaze.\nQty: 155 Gms| Kcal: 350.176 | Carbs 27.51 Gms| Sugar: 0 Gms| Fat: 15.5 Gms| Saturated fat: 5.75 Gms| Protein: 25.16 Gms| Sodium: 1592.60 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds\"",
+          "price": 199.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-15",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Chicken (4pc) + Crispy Chicken Burger.",
+          "description": "",
+          "price": 298.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Chicken (7 Pc)",
+          "description": "\"Boneless Chicken dunked in hot and sweet Korean glaze. \nQty: 221 Gms| Kcal: 595.04 | Carbs 24.77 Gms| Sugar: 0 Gms| Fat: 39.89 Gms| Saturated fat: 15.25 Gms| Protein: 34.23 Gms| Sodium: 2188.96 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds\"",
+          "price": 299.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-15",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Chicken Wings (4pc)",
+          "description": "\"Chicken Wings dunked in hot and sweet Korean glaze.\nQty: 172 Gms| Kcal: 496.80 | Carbs 28.19 Gms| Sugar: 0 Gms| Fat: 30.34 Gms| Saturated fat: 11.04 Gms| Protein: 27.74 Gms| Sodium: 2714.33 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds\"",
+          "price": 229.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-14",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "2Crispy Veg Burger+Korean Spicy Fries+2Coke.",
+          "description": "",
+          "price": 399.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "2Crispy Chicken Burger+Korean Spicy Chicken(4pc)+2Coke.",
+          "description": "",
+          "price": 449.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "2Whopper Jr Chicken+Korean Spicy Chicken(7pc).",
+          "description": "",
+          "price": 509.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-15",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "2Whopper Jr Veg+2Korean Spicy Fries.",
+          "description": "",
+          "price": 509.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Paneer Burger Meal.",
+          "description": "",
+          "price": 449.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Chicken Burger Meal.",
+          "description": "",
+          "price": 449.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Paneer+Korean Spicy Fries(M).",
+          "description": "",
+          "price": 359.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Chicken+Korean Spicy Fries(M).",
+          "description": "",
+          "price": 359.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Chicken Wings(4pc) + Korean Spicy Chicken (4pc).",
+          "description": "",
+          "price": 379.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Burgers, Wraps & Tacos Value Burgers & Tacos",
+      "items": [
+        {
+          "item_name": "Crispy Veg Burger.",
+          "description": "Our best-selling burger with crispy veg patty, fresh onion and our signature sauce",
+          "price": 70.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-8",
+            "delivery-enabled",
+            "bestseller",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Chicken Burger",
+          "description": "Crispy Chicken Patty, Onion & Our Signature Tomato Herby Sauce. \nQty: 125 Gms| Kcal: 359.1 | Carbs 44.3 Gms| Sugar: 7.5 Gms| Fat: 15.1 Gms| Saturated fat: 4.8 Gms| Protein: 11.5 Gms| Sodium: 592.4 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 99.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-12",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Veg Makhani Burst Burger.",
+          "description": "Enjoy Makhani Flavour With Mix Veg Patty Topped Up With Onion",
+          "price": 80.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-13",
+            "delivery-enabled",
+            "bestseller",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Chicken Makhani Burst Burger",
+          "description": "2 Crunchy Veg taco + med fries \nQty: 125 Gms| Kcal: 316 | Carbs 41.7 Gms| Sugar: 8 Gms| Fat: 11.1 Gms| Saturated fat: 4.3 Gms| Protein: 10.7 Gms| Sodium: 780.5 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 109.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-12",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Veg Double Patty Burger",
+          "description": "Double Masaledar Veg Patty, Onion & Our Signature Tomato Herby Sauce. \nQty: 204 Gms| Kcal: 531.4 | Carbs 70.6 Gms| Sugar: 9.1 Gms| Fat: 22.7 Gms| Saturated fat: 9.2 Gms| Protein: 11.2 Gms| Sodium: 1068 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 99.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-12",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Chicken Double Patty Burger.",
+          "description": "Our best-selling burger with crispy chicken patty, onion and classic mayo sauce.",
+          "price": 139.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-11",
+            "delivery-enabled",
+            "bestseller",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Veg Crunchy Taco",
+          "description": "Crunchy Taco Shell Filled With Beans & Veg Mix, Chef'S Secret Sauce, Onion & Lettuce. \nQty: 105 Gms| Kcal: 336.1 | Carbs 33.7 Gms| Sugar: 7.1 Gms| Fat: 20.8 Gms| Saturated fat: 13.9 Gms| Protein: 3.6 Gms| Sodium: 589.6 Mg \nContains: Soybean, Milk",
+          "price": 90.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-13",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crunchy Chicken Taco.",
+          "description": "Crunchy Taco Shell With Chicken Patty, Veggies And Spicy Sauce. \nQty: 135 Gms| Kcal: 262 | Carbs 24.8 Gms| Sugar: 2.9 Gms| Fat: 16 Gms| Saturated fat: 5.5 Gms| Protein: 5.1 Gms| Sodium: 525.9 Mg \nContains: Soybean, Milk",
+          "price": 119.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-13",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Veg Double Patty Burger with Double Cheese Slice.",
+          "description": "",
+          "price": 149.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Makhani Burst Burger with Cheese.",
+          "description": "",
+          "price": 134.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-6",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Veg Makhani Burst Double Cheese Burger.",
+          "description": "",
+          "price": 130.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Crispy Chicken Triple Cheese Burger.",
+          "description": "",
+          "price": 174.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "BK Veggie Burger.",
+          "description": "BK Veg Patty, Lettuce, Tomato(Seasonal) & Our Signature Mayo Sauce. \nQty: 152 Gms| Kcal: 352.5 | Carbs 45.4 Gms| Sugar: 7.8 Gms| Fat: 13.6 Gms| Saturated fat: 4.7 Gms| Protein: 12 Gms| Sodium: 593.8 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 139.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-11",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "BK Chicken Burger.",
+          "description": "BK Chicken Patty, Lettuce, Tomato(Seasonal) & Our Signature Mayo Sauce. \nQty: 164 Gms| Kcal: 415 | Carbs 39 Gms| Sugar: 7.2 Gms| Fat: 21.2 Gms| Saturated fat: 7.2 Gms| Protein: 17 Gms| Sodium: 283.9 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 149.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "BK Veggie Triple Cheese Burger.",
+          "description": "",
+          "price": 214.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Burgers, Wraps & Tacos Whopper",
+      "items": [
+        {
+          "item_name": "Original Whopper Veg.",
+          "description": "Our Original Whopper with Crunchy Veg Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces With Xxl Buns. Qty: 285 Gms| Kcal: 681.2 | Carbs 97.1 Gms| Sugar: 23.1 Gms| Fat: 25.4 Gms| Saturated fat: 9.8 Gms| Protein: 15.8 Gms| Sodium: 987.8 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 189.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-7",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Original Whopper Chicken.",
+          "description": "Our Original Whopper with Flame Grilled Chicken Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces With Xxl Buns. Qty: 280 Gms| Kcal: 667.2 | Carbs 59.1 Gms| Sugar: 8.7 Gms| Fat: 36.3 Gms| Saturated fat: 8.1 Gms| Protein: 26.2 Gms| Sodium: 1018.7 Mg Contains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 209.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-13",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Whopper Jr Veg.",
+          "description": "Our Signature Whopper with Crunchy Veg Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces \nQty: 194 Gms| Kcal: 456 | Carbs 61.6 Gms| Sugar: 9.2 Gms| Fat: 20 Gms| Saturated fat: 11.9 Gms| Protein: 7.2 Gms| Sodium: 1428.1 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds.",
+          "price": 149.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-9",
+            "delivery-enabled",
+            "bestseller",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Chicken Whopper Jr Double Patty.",
+          "description": "",
+          "price": 219.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Whopper Jr Veg Stacker.",
+          "description": "",
+          "price": 239.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Whopper Jr Chicken with Cheese Slice.",
+          "description": "",
+          "price": 204.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-9",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Whopper Jr Veg with Cheese Slice.",
+          "description": "",
+          "price": 174.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Whopper Jr Chicken",
+          "description": "Our Signature Whopper with Flame Grilled Chicken Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces \nQty: 167 Gms| Kcal: 369 | Carbs 43.4 Gms| Sugar: 8.4 Gms| Fat: 13.7 Gms| Saturated fat: 6.2 Gms| Protein: 18 Gms| Sodium: 1314.3 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 169.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Mutton Whopper Jr",
+          "description": "Our signature Whopper with Flame Grilled Mutton Patty, Onions, Lettuce, Tomatoes, Gherkins, Creamy & Smoky Sauces",
+          "price": 219.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Burgers, Wraps & Tacos Premium Burgers & Wraps- (Kings Collection)",
+      "items": [
+        {
+          "item_name": "Paneer Royale Wrap,",
+          "description": "Qty: 234 Gms | Kcal: 676.2 | Carbs 63.2 Gms | Sugar: 9.7 Gms | Fat: 35.6 Gms | Saturated fat: 18 Gms | Protein: 25.3 Gms | Sodium: 1077.9 Mg \nContains: Gluten, Soybean , Milk",
+          "price": 229.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-14",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Hot 'N' Saucy Burger,",
+          "description": "Chilli Creamy Patty, Spicy Sauce, in premium Brioche buns.",
+          "price": 209.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crunchy Chicken Wrap,",
+          "description": "Qty: 252 Gms | Kcal: 483.8 | Carbs 50.6 Gms | Sugar: 9.3 Gms | Fat: 22.5 Gms | Saturated fat: 8.2 Gms | Protein: 19.8 Gms | Sodium: 1176.5 Mg \nContains: Gluten, Soybean , Milk",
+          "price": 229.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-14",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Chicken Tandoori Burger,",
+          "description": "Flame Grilled Tandoori Chicken, Veg Khurchan in premium Brioche buns.",
+          "price": 209.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Paneer Burger,",
+          "description": "\"Crunchy Soft Paneer patty dunked in hot and sweet Korean glaze with Korean sesame mayo in premium Brioche buns for authentic Korean flavours. \nQty: 228 Gms| Kcal: 695.26 | Carbs 67.94 Gms| Sugar: 16.99 Gms| Fat: 38.07 Gms| Saturated fat: 15.82 Gms| Protein: 20.20 Gms| Sodium: 1744.70 Mg \nContains: Gluten, Soybean , Milk \"",
+          "price": 299.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Chicken Burger,",
+          "description": "\"Crunchy Juicy whole muscle chicken patty dunked in hot and sweet Korean glaze with Korean sesame mayo in premium Brioche buns for authentic Korean flavours \nQty: 227 Gms| Kcal: 607.27 | Carbs 55.14 Gms| Sugar: 31.59 Gms| Fat: 31.59 Gms| Saturated fat: 11.58 Gms| Protein: 25.58 Gms| Sodium: 1793.87 Mg \nContains: Gluten, Soybean , Milk \"",
+          "price": 299.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Sides & Snacks Fries",
+      "items": [
+        {
+          "item_name": "Medium Peri Peri Fries.",
+          "description": "Crispy Fries With Tangy Peri Peri Spice.  \nQty: 119 Gms| Kcal: 345.3 | Carbs 447.6 Gms| Sugar: 0.9 Gms| Fat: 14.7 Gms| Saturated fat: 6.8 Gms| Protein: 6.3 Gms| Sodium: 998.8 Mg \nContains: Soybean, Milk",
+          "price": 144.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-12",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "King Fries.",
+          "description": "The Perfect Crispy Partner \nQty: 156 Gms| Kcal: 455 | Carbs 609.48 Gms| Sugar: 0 Gms| Fat: 19.7 Gms| Saturated fat: 9.31 Gms| Protein: 8 Gms| Sodium: 723.7 Mg \nContains: Gluten",
+          "price": 139.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-12",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Saucy Fries.",
+          "description": "Crispy French Fries, Loads of Cheese, Yum!",
+          "price": 145.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-12",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Regular Fries.",
+          "description": "The perfect crispy partner.",
+          "price": 90.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-12",
+            "delivery-enabled",
+            "bestseller",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "2 Med Fries.",
+          "description": "The perfect crispy partner.",
+          "price": 238.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-12",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "2 King Fries,",
+          "description": "MRP. 260 | Save Rs. 91,  The perfect crispy partner.",
+          "price": 278.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Medium Fries",
+          "description": "The Perfect Crispy Partner.\nQty: 114 Gms| Kcal: 332.5 | Carbs 445.39 Gms| Sugar: 0 Gms| Fat: 14.4 Gms| Saturated fat: 6.8 Gms| Protein: 5.9 Gms| Sodium: 528.8 Mg \nContains: Gluten",
+          "price": 119.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-12",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "King Peri Peri Fries",
+          "description": "Crispy Fries With Tangy Peri Peri Spice.  \nQty: 161 Gms| Kcal: 467.8 | Carbs 611.7 Gms| Sugar: 0.9 Gms| Fat: 20 Gms| Saturated fat: 9.3 Gms| Protein: 8.4 Gms| Sodium: 1193.7 Mg \nContains: Gluten, Soybean",
+          "price": 159.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-12",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Fiery Hell Dip",
+          "description": "Qty: 20 Gms| Kcal: 81.4 | Carbs 3.3 Gms| Sugar: 1.8 Gms| Fat: 7.4 Gms| Saturated fat: 1.3 Gms| Protein: 0.3 Gms| Sodium: 194 Mg \nContains:  Soybean , Milk",
+          "price": 23.81,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-13",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Peri Peri Spice Mix",
+          "description": "Peri Peri Spice Mix. \nQty: 5 Gms| Kcal: 12.8 | Carbs 2.2 Gms| Sugar: 0.9 Gms| Fat: 0.3 Gms| Saturated fat: 0 Gms| Protein: 0.4 Gms| Sodium: 470 Mg \nContains:  Soybean",
+          "price": 28.57,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-12",
+            "delivery-enabled",
+            "dt-sides"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Fries,",
+          "description": "\"Cheesy Fries with hot and sweet Korean glaze. \nQty: 174 Gms| Kcal: 496.70 | Carbs 53.57 Gms| Sugar: 10.88 Gms| Fat: 28.29 Gms| Saturated fat: 10.14 Gms| Protein: 6.94 Gms| Sodium: 1469.93 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds\"",
+          "price": 159.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Sides & Snacks Snacks",
+      "items": [
+        {
+          "item_name": "BK Veg Pizza Puff.",
+          "description": "\"Crispy savoury pastry with a filling of tomato sauce with corn, carrots, bell peppers, peas and mozzarella. Caution: Served Hot.",
+          "price": 65.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-12",
+            "delivery-enabled",
+            "dt-sides",
+            "bestseller",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Veggie Strips - 5 Pcs.",
+          "description": "Vegetarian's favourite finger food.",
+          "price": 59.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-6",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Masala Hashbrown",
+          "description": "Fried golden brown potatoes with a desi masala twist.\nQty: 60 Gms| Kcal: 158 | Carbs 19.7 Gms| Sugar: 1 Gms| Fat: 8.1 Gms| Saturated fat: 3.9 Gms| Protein: 1.7 Gms| Sodium: 500 Mg\nContains: Gluten, Soybean",
+          "price": 49.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-4",
+            "delivery-enabled",
+            "dt-breakfast",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crunchy Chicken Nuggets (4pcs)+Fiery Hell Dip.",
+          "description": "",
+          "price": 132.81,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-13",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "(6Pc) Crunchy Chicken Nuggets + 1 Dip.",
+          "description": "Tender Juicy Crunchy Chicken Nuggets fried to golden brown perfection. Served with Fiery Hell Dip",
+          "price": 169.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-13",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "(9Pc) Crunchy Chicken Nuggets + 2 Dips,",
+          "description": "Qty: 200 Gms | Kcal: 548.3 | Carbs 39.3 Gms | Sugar: 4 Gms | Fat: 32 Gms | Saturated fat: 11.2 Gms | Protein: 25.4 Gms | Sodium: 401.3 Mg \nContains: , Soybean , Milk",
+          "price": 199.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-13",
+            "delivery-enabled",
+            "dt-sides",
+            "rating_4"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Sides & Snacks Chicken Wings",
+      "items": [
+        {
+          "item_name": "Boneless Wings Regular.",
+          "description": "4Pcs Boneless Chicken Bites \nQty: 95 Gms| Kcal: 213 | Carbs 16 Gms| Sugar: 0 Gms| Fat: 9.2 Gms| Saturated fat: 5.2 Gms| Protein: 16.8 Gms| Sodium: 555 Mg \nContains: Gluten, Soybean, Milk",
+          "price": 169.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "non-promo",
+            "services",
+            "sf-kid-friendly",
+            "kb-14",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Boneless Wings Large",
+          "description": "7Pcs Boneless Chicken Bites \nQty: 165 Gms| Kcal: 371 | Carbs 27.9 Gms| Sugar: 0 Gms| Fat: 16 Gms| Saturated fat: 9.1 Gms| Protein: 29.2 Gms| Sodium: 963.8 Mg \nContains: Gluten, Soybean, Milk",
+          "price": 269.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-14",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Wings Fried - 2pcs.",
+          "description": "",
+          "price": 99.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-14",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Wings Fried - Four Pieces.",
+          "description": "Juicy chicken wings cooked to perfection.",
+          "price": 179.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-14",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Chicken Wings Fried - Ten Pieces",
+          "description": "Chicken Wings Fried To Perfection. \nQty: 350 Gms| Kcal: 750 | Carbs 40.1 Gms| Sugar: 0 Gms| Fat: 47 Gms| Saturated fat: 18.5 Gms| Protein: 79.9 Gms| Sodium: 2020 Mg \nContains: Gluten, Soybean, Milk",
+          "price": 399.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-14",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Chicken Wings Fried - Fifteen Pieces",
+          "description": "Chicken Wings Fried To Perfection. \nQty: 525 Gms| Kcal: 1125 | Carbs 60.8 Gms| Sugar: 0 Gms| Fat: 69.8 Gms| Saturated fat: 27 Gms| Protein: 119.3 Gms| Sodium: 3030 Mg \nContains: Gluten, Soybean, Milk",
+          "price": 579.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-14",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Chicken (4 Pc)!",
+          "description": "\"Boneless Chicken dunked in hot and sweet Korean glaze.\nQty: 155 Gms| Kcal: 350.176 | Carbs 27.51 Gms| Sugar: 0 Gms| Fat: 15.5 Gms| Saturated fat: 5.75 Gms| Protein: 25.16 Gms| Sodium: 1592.60 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds\"",
+          "price": 199.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-15",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Chicken (7 Pc)!",
+          "description": "\"Boneless Chicken dunked in hot and sweet Korean glaze. \nQty: 221 Gms| Kcal: 595.04 | Carbs 24.77 Gms| Sugar: 0 Gms| Fat: 39.89 Gms| Saturated fat: 15.25 Gms| Protein: 34.23 Gms| Sodium: 2188.96 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds\"",
+          "price": 299.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-15",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Korean Spicy Chicken Wings (4pc)!",
+          "description": "\"Chicken Wings dunked in hot and sweet Korean glaze.\nQty: 172 Gms| Kcal: 496.80 | Carbs 28.19 Gms| Sugar: 0 Gms| Fat: 30.34 Gms| Saturated fat: 11.04 Gms| Protein: 27.74 Gms| Sodium: 2714.33 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds\"",
+          "price": 229.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-14",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "BK Café (Coffee & Shakes) Cold Beverages",
+      "items": [
+        {
+          "item_name": "Ice Latte.",
+          "description": "",
+          "price": 199.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-8",
+            "delivery-enabled",
+            "dt-beverages",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Classic Cold Coffee.",
+          "description": "Our signature BK Café Coffee ice blended with milk & cream",
+          "price": 199.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "non-promo",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-12",
+            "delivery-enabled",
+            "dt-beverages",
+            "dt-breakfast",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Chocolate Shake.",
+          "description": "Our signature chocolate thick shake.",
+          "price": 189.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-13",
+            "delivery-enabled",
+            "dt-beverages",
+            "dt-breakfast",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Mango Shake.",
+          "description": "Our signature mango thick shake.",
+          "price": 189.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-13",
+            "delivery-enabled",
+            "dt-beverages",
+            "dt-breakfast",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Berry Blast Thick Shake",
+          "description": "Our Signature Black Currant Thick Shake \nQty: 300 ML| Kcal: 474 | Carbs 90.9 Gms| Sugar: 68.2 Gms| Fat: 8.8 Gms| Saturated fat: 6 Gms| Protein: 7.9 Gms| Sodium: 150.9 Mg \nContains: Soybean, Milk",
+          "price": 189.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "non-promo",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-13",
+            "delivery-enabled",
+            "dt-breakfast",
+            "dt-beverages",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Mocha Frappe,",
+          "description": "Qty: 350 Gms | Kcal: 328 | Carbs 48.3 Gms | Sugar: 10.4 Gms | Fat: 10.2 Gms | Saturated fat: 38.2 Gms | Protein: 8.7 Gms | Sodium: 94.5 Mg \nContains: , Milk",
+          "price": 269.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-12",
+            "delivery-enabled",
+            "dt-breakfast",
+            "dt-beverages",
+            "rating_4"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "BK Café (Coffee & Shakes) Hot Beverages",
+      "items": [
+        {
+          "item_name": "Masala Chai",
+          "description": "Masala Chai \nQty: 200 Gms| Kcal: 84 | Carbs 15.8 Gms| Sugar: 1.1 Gms| Fat: 2.7 Gms| Saturated fat: 11.2 Gms| Protein: 0.7 Gms| Sodium: 36.2 Mg \nContains: Milk",
+          "price": 109.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-12",
+            "delivery-enabled",
+            "dt-breakfast",
+            "dt-beverages"
+          ]
+        },
+        {
+          "item_name": "Cappuccino Small.",
+          "description": "Small Cappuccino @ 99 \nQty: 240 Gms| Kcal: 101 | Carbs 9.8 Gms| Sugar: 4.3 Gms| Fat: 5.8 Gms| Saturated fat: 0 Gms| Protein: 3 Gms| Sodium: 72 Mg \nContains: Milk",
+          "price": 189.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-8",
+            "delivery-enabled",
+            "dt-beverages",
+            "dt-breakfast",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Café Latte (Small)",
+          "description": "Our Signature Bk Café© Coffee With Steamed Milk. \nQty: 240 Gms| Kcal: 110 | Carbs 9.8 Gms| Sugar: 4.9 Gms| Fat: 6.5 Gms| Saturated fat: 0 Gms| Protein: 3.4 Gms| Sodium: 79.2 Mg \nContains: Milk",
+          "price": 159.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-8",
+            "delivery-enabled",
+            "dt-breakfast",
+            "dt-beverages"
+          ]
+        },
+        {
+          "item_name": "Hot Chocolate.",
+          "description": "Hot Chocolate",
+          "price": 179.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-10",
+            "delivery-enabled",
+            "dt-beverages",
+            "dt-breakfast",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Cappuccino (Regular)",
+          "description": "Espresso With Steamed Milk & Milk Froth. \nQty: 330 Gms| Kcal: 138.9 | Carbs 13.5 Gms| Sugar: 5.9 Gms| Fat: 7.9 Gms| Saturated fat: 0 Gms| Protein: 4.1 Gms| Sodium: 99 Mg \nContains: Milk",
+          "price": 189.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-8",
+            "delivery-enabled",
+            "dt-breakfast",
+            "dt-beverages"
+          ]
+        },
+        {
+          "item_name": "Café Latte (Regular)",
+          "description": "Our Signature Bk Café© Coffee With Steamed Milk. \nQty: 330 Gms| Kcal: 151 | Carbs 13.5 Gms| Sugar: 6.8 Gms| Fat: 8.9 Gms| Saturated fat: 0 Gms| Protein: 4.8 Gms| Sodium: 108.9 Mg \nContains: Milk",
+          "price": 189.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-8",
+            "delivery-enabled",
+            "dt-beverages",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Mocha Cappuccino (Small).",
+          "description": "Our Signature Bk Café© Coffee With Chocolate Flavour \nQty: 240 Gms| Kcal: 246 | Carbs 41 Gms| Sugar: 6.6 Gms| Fat: 5.8 Gms| Saturated fat: 26.4 Gms| Protein: 4.3 Gms| Sodium: 57.6 Mg \nContains: Soybean, Milk",
+          "price": 199.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-8",
+            "delivery-enabled",
+            "dt-breakfast",
+            "dt-beverages"
+          ]
+        },
+        {
+          "item_name": "Mocha Cappuccino (Regular)",
+          "description": "Our Signature Bk Café© Coffee With Chocolate Flavour \nQty: 330 Gms| Kcal: 338.5 | Carbs 56.4 Gms| Sugar: 9 Gms| Fat: 7.9 Gms| Saturated fat: 36.4 Gms| Protein: 5.9 Gms| Sodium: 79.2 Mg \nContains: Soybean, Milk",
+          "price": 229.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-8",
+            "delivery-enabled",
+            "dt-breakfast",
+            "dt-beverages"
+          ]
+        },
+        {
+          "item_name": "Americano (Regular)",
+          "description": "Our signature BK Café Coffee with Hot Water.",
+          "price": 189.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-8",
+            "delivery-enabled",
+            "dt-breakfast",
+            "dt-beverages"
+          ]
+        },
+        {
+          "item_name": "Americano (Small)",
+          "description": "Our signature BK Café Coffee with Hot Water.",
+          "price": 159.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-8",
+            "delivery-enabled",
+            "dt-breakfast",
+            "dt-beverages"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Value Meals (Save Upto 47%)",
+      "items": [
+        {
+          "item_name": "Crispy Chicken Meal.",
+          "description": "",
+          "price": 284.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-14",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Veg Meal.",
+          "description": "",
+          "price": 255.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-13",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Veg Makhani Burst Meal.",
+          "description": "",
+          "price": 265.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-11",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crunchy Veg Taco+Veggie Strips+Coke.",
+          "description": "",
+          "price": 244.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-15",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Veg Puff Meal.",
+          "description": "",
+          "price": 250.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-8",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Crispy Chicken Burger Peri Peri Meal (R)",
+          "description": "Crispy Chicken Burger+Peri Peri Fries( R)+Coke",
+          "price": 312.57,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-8",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Crispy Veg Burger Peri Peri Meal (R)",
+          "description": "Crispy Veg Burger+Peri Peri Fries( R)+Coke",
+          "price": 283.57,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Peri Peri Fries (R)",
+          "description": "Crispy Fries with Tangy Peri Peri Spice",
+          "price": 118.57,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-12",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "2BK Veggie Burger +2Peri Peri Fries(R)",
+          "description": "2BK Veggie+2Peri Peri Fries( R)",
+          "price": 515.14,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-13",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Whopper Jr Veg Meal,",
+          "description": "",
+          "price": 363.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-14",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Veg Double Patty Meal,",
+          "description": "",
+          "price": 303.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Makhani Burst+Fries(Reg)+Coke,",
+          "description": "",
+          "price": 294.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Veg Combo (M)",
+          "description": "Masaledar Veg Patty, Onion & Our Signature Tomato Herby Sauce. Served with Crispy Fries & Coca Cola. \nKcal: 888.7 | Carbs 547.9 Gms| Sugar: 54.2 Gms| Fat: 27.2 Gms| Saturated fat: 11.7 Gms| Protein: 14.3 Gms| Sodium: 1365.3 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 229.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-5",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Original Whopper Veg Combo (M)",
+          "description": "Our Signature Whopper with Crunchy Veg Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces With Xxl Buns. Served With Crispy Fries & Coca Cola. \nKcal: 1203.8 | Carbs 594.5 Gms| Sugar: 75.1 Gms| Fat: 39.8 Gms| Saturated fat: 16.6 Gms| Protein: 21.7 Gms| Sodium: 1554.6 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 328.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-13",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Original Whopper Chicken Combo (M)",
+          "description": "Our Signature Whopper with Flame Grilled Chicken Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces With Xxl Buns. Served With Crispy Fries & Coca Cola. \nKcal: 1189.8 | Carbs 556.5 Gms| Sugar: 60.7 Gms| Fat: 50.7 Gms| Saturated fat: 14.9 Gms| Protein: 32.1 Gms| Sodium: 1585.5 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 358.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Whopper Jr Veg Combo (M)",
+          "description": "Our Signature Whopper with Crunchy Veg Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces. Served With Crispy Fries & Coca Cola. \nKcal: 978.6 | Carbs 558.9 Gms| Sugar: 61.2 Gms| Fat: 34.4 Gms| Saturated fat: 18.7 Gms| Protein: 13.1 Gms| Sodium: 1994.9 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 268.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Crispy Chicken Combo (M)",
+          "description": "Crispy Chicken Patty, Onion & Our Signature Tomato Herby Sauce. Served with Crispy Fries & Cola. \nKcal: 881.7 | Carbs 541.7 Gms| Sugar: 59.5 Gms| Fat: 29.5 Gms| Saturated fat: 11.6 Gms| Protein: 17.4 Gms| Sodium: 1159.2 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 267.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Tandoori Burger Combo (M)",
+          "description": "Flame Grilled Tandoori Chicken Patty, Veg Khurchan in premium Brioche Buns. Served With Crispy Fries & Coke. \nKcal: 1025.3 | Carbs 560.1 Gms| Sugar: 58.9 Gms| Fat: 29.4 Gms| Saturated fat: 15.6 Gms| Protein: 35.3 Gms| Sodium: 1673.6 Mg \nContains: Gluten, Soybean, Milk",
+          "price": 348.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Hot 'N' Saucy Burger Combo (M)",
+          "description": "Chilli Creamy Patty, Spicy Sauce, in premium Brioche Buns. Served With Crispy Fries & Coke.\nKcal: 1204.6 | Carbs 579.4 Gms| Sugar: 69.5 Gms| Fat: 45.8 Gms| Saturated fat: 18.9 Gms| Protein: 23.8 Gms| Sodium: 1765.3 Mg \nContains: Soybean, Milk",
+          "price": 348.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "BK Veggie Burger Combo (M)",
+          "description": "BK Veg Patty, Lettuce, Tomato(Seasonal) & Our Signature Mayo Sauce. Served with Crispy Fries & Coca Cola. \nKcal: 875.1 | Carbs 542.8 Gms| Sugar: 59.8 Gms| Fat: 28 Gms| Saturated fat: 11.5 Gms| Protein: 17.9 Gms| Sodium: 1160.6 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 278.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Whopper Jr Chicken Combo (M)",
+          "description": "Our Signature Whopper with Flame Grilled Chicken Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces. Served With Crispy Fries & Coca Cola. \nKcal: 891.6 | Carbs 540.8 Gms| Sugar: 60.4 Gms| Fat: 28.1 Gms| Saturated fat: 13 Gms| Protein: 23.9 Gms| Sodium: 1881.1 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 288.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "BK Chicken Burger Combo (M)",
+          "description": "BK Chicken Patty, Lettuce, Tomato(Seasonal) & Our Signature Mayo Sauce. Served With Crispy Fries & Coca Cola. \nKcal: 937.6 | Carbs 536.4 Gms| Sugar: 59.2 Gms| Fat: 35.6 Gms| Saturated fat: 14 Gms| Protein: 22.9 Gms| Sodium: 850.7 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds",
+          "price": 288.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Exclusive Deals (Save upto 40%)",
+      "items": [
+        {
+          "item_name": "Crispy Veg Burger + BK Veg Pizza Puff.",
+          "description": "",
+          "price": 135.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-11",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Veg+Veggie Strips.",
+          "description": "",
+          "price": 129.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-6",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "BK Veg Pizza Puff+Coke.",
+          "description": "",
+          "price": 160.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-12",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Chicken + Crispy Chicken.",
+          "description": "Crispy Chicken patty burger, our best seller. Enjoy Twice.",
+          "price": 198.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Whopper Jr Veg+ Crispy Veg.",
+          "description": "Our signature veg whopper in a smaller size + Crispy veg patty  burger",
+          "price": 219.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-8",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Double Crispy Veg + Double Crispy Veg.",
+          "description": "Crispy veg patty burger, our best seller! !",
+          "price": 198.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-12",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "2 BK Veggie Burgers,",
+          "description": "",
+          "price": 278.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-12",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Chicken + Crunchy Chicken Taco.",
+          "description": "",
+          "price": 218.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "BK Veggie Burger + Veg Taco.",
+          "description": "",
+          "price": 229.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-7",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Veg Makhani Burst Burger+ Medium Peri Peri Fries.",
+          "description": "Veg Makhani Burst Burger+ Medium Peri Peri Fries",
+          "price": 224.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Chicken + Chicken Nuggets (4Pcs).",
+          "description": "",
+          "price": 208.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "BK Veggie Burger + Crispy Veg Burger.",
+          "description": "",
+          "price": 209.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-15",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "2 Crunchy Veg Taco+Fries(M),",
+          "description": "Qty: 324 Gms | Kcal: 1004.7 | Carbs 0 Gms | Sugar: 128.2 Gms | Fat: 56 Gms | Saturated fat: 34.6 Gms | Protein: 13.1 Gms | Sodium: 1708 Mg \nContains: Gluten, Soybean , Milk",
+          "price": 299.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Chicken + Med Fries.",
+          "description": "Crispy Chicken patty burger with fries on the side.",
+          "price": 218.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Veg Double Patty Burger+Veg Crunchy Taco.",
+          "description": "",
+          "price": 189.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-12",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Veg Whopper Jr + BK Veg Pizza Puff.",
+          "description": "Veg Whopper Jr + Pizza Puff",
+          "price": 214.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-15",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Chicken Makhani Burst Burger+Fries(Reg)+Peri Peri Sachet.",
+          "description": "",
+          "price": 227.57,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-5",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "1Crispy Veg Double Patty + 1Med Fries.",
+          "description": "Double up the crispy veg patty burger in our best selling burger with fries on the side",
+          "price": 218.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-11",
+            "delivery-enabled",
+            "dt-breakfast",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Chicken Burger+Peri Peri Fries(Reg).",
+          "description": "",
+          "price": 217.57,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-13",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "BK Veggie Burger+Veg Makhani Burst Burger.",
+          "description": "",
+          "price": 219.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-12",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "BK Veggie Burger + BK Veg Pizza Puff.",
+          "description": "BK Veggie Burger + Pizza Puff",
+          "price": 204.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "2 Veg Whopper Jr,",
+          "description": "Qty: 317 Gms | Kcal: 797.1 | Carbs 77.50 Gms | Sugar: 13.05 Gms | Fat: 44.31 Gms | Saturated fat: 15.86 Gms | Protein: 22.48 Gms | Sodium: 1412.94 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds",
+          "price": 298.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Chicken Double Patty Burger+Crunchy Chicken Taco,",
+          "description": "Qty: 317 Gms | Kcal: 797.1 | Carbs 77.50 Gms | Sugar: 13.05 Gms | Fat: 44.31 Gms | Saturated fat: 15.86 Gms | Protein: 22.48 Gms | Sodium: 1412.94 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds",
+          "price": 258.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-11",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "3 Veg Makhani Burst Burger,",
+          "description": "",
+          "price": 240.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-11",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Chicken Burger + BK Chicken Burger,",
+          "description": "",
+          "price": 248.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "2 Crunchy Chicken Taco,",
+          "description": "",
+          "price": 238.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-13",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "2 Veg Crunchy Tacos+Crispy Veg Burger,",
+          "description": "",
+          "price": 250.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-11",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Veg Whopper Jr + Crunchy Veg Taco,",
+          "description": "",
+          "price": 239.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-9",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chocolate Thick Shake + Crispy Veg Burger,",
+          "description": "MRP. 259 | Save Rs. 90, Chocolate Thick Shake + Crispy Veg Burger",
+          "price": 259.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-10",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Chicken+Crunchy Chicken Nuggets(6Pcs),",
+          "description": "Qty: 251 Gms | Kcal: 695.91 | Carbs 69.35 Gms | Sugar: 9.68 Gms | Fat: 33.9 Gms | Saturated fat: 11.79 Gms | Protein: 28.25 Gms | Sodium: 875.37 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds",
+          "price": 244.49,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "BK Chicken+Crunchy Chicken Nuggets(4pcs),",
+          "description": "Qty: 234 Gms | Kcal: 583.7 | Carbs 53.3 Gms | Sugar: 7.5 Gms | Fat: 28.7 Gms | Saturated fat: 11 Gms | Protein: 27.9 Gms | Sodium: 289.8 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds",
+          "price": 258.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Whopper Jr +Chicken Fried Wings(2pcs),",
+          "description": "Qty: 237 Gms | Kcal: 519 | Carbs 51.5033 Gms | Sugar: 8.35 Gms | Fat: 23.0274 Gms | Saturated fat: 9.7623 Gms | Protein: 33.936 Gms | Sodium: 1718.29 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds",
+          "price": 268.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Crispy Veg Burger+Classic Cold Coffee,",
+          "description": "Qty: 487 Gms | Kcal: 577.2 | Carbs 77.6 Gms | Sugar: 15.4 Gms | Fat: 22.3 Gms | Saturated fat: 25.8 Gms | Protein: 15.4 Gms | Sodium: 938.2 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds",
+          "price": 269.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Kings Collection ( Premium Burgers )",
+      "items": [
+        {
+          "item_name": "Hot 'N' Saucy Burger.",
+          "description": "Chilli Creamy Patty, Spicy Sauce, in premium Brioche buns.",
+          "price": 209.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Chicken Tandoori Burger.",
+          "description": "Flame Grilled Tandoori Chicken, Veg Khurchan in premium Brioche buns.",
+          "price": 209.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Hot\"N'Saucy Burger+BK Veggie Burger.",
+          "description": "",
+          "price": 348.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Paneer Royale Wrap+BK Veggie Burger.",
+          "description": "",
+          "price": 368.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Tandoori Burger+BK Chicken Burger.",
+          "description": "",
+          "price": 358.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Crunchy Chicken Wrap+BK Chicken Burger.",
+          "description": "",
+          "price": 458.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Mutton Whopper Jr+Crispy Chicken Burger.",
+          "description": "",
+          "price": 318.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Boneless Wings(7pcs)+Fiery Hell Dip.",
+          "description": "",
+          "price": 292.81,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-8",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Original Whopper Veg+Chocolate Thick Shake.",
+          "description": "",
+          "price": 378.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-13",
+            "delivery-enabled",
+            "dt-breakfast",
+            "dt-beverages"
+          ]
+        },
+        {
+          "item_name": "Original Whopper Chicken+Fries(M).",
+          "description": "",
+          "price": 328.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Original Whopper Veg Meal(Reg).",
+          "description": "",
+          "price": 374.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Hot'N'Saucy Burger+Fries(M).",
+          "description": "",
+          "price": 328.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Original Whopper Veg+BK Veggie Burger.",
+          "description": "",
+          "price": 328.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Original Whopper Veg+Peri Peri Fries(M).",
+          "description": "",
+          "price": 333.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Tandoori Burger+Fries(Reg).",
+          "description": "",
+          "price": 299.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Hot'N'Saucy Burger+Peri Peri Fries(M).",
+          "description": "",
+          "price": 353.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "kb-14",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Original Whopper Chicken+4pcs Crunchy Chicken Nuggets.",
+          "description": "",
+          "price": 318.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Party Specials (Save upto 37%) Family Feast for 4 ( Save upto 37%)",
+      "items": [
+        {
+          "item_name": "Classic Family Feast for 4 - Veg",
+          "description": "Save Rs. 200 | 2 Crispy Veg + BK Veggie + Veg Crunchy Taco + 2 Med Fries + 2 Dips + Coca Cola Medium + Chocolate Thick Shake.\nKcal: 2926.9 | Carbs 332.3 Gms| Sugar: 145 Gms| Fat: 114.9 Gms| Saturated fat: 51.7 Gms| Protein: 55.8 Gms| Sodium: 4274 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds",
+          "price": 938.62,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Classic Family Feast for 4 - Chicken",
+          "description": "Save Rs. 200 | 2 Crispy Chicken + BK Chicken + Chicken Crunchy Taco + 2 Med Fries + 2 Dips + Coca Cola Medium + Chocolate Thick Shake.\nKcal: 2909 | Carbs 298.8 Gms| Sugar: 142.1 Gms| Fat: 122.3 Gms| Saturated fat: 45.6 Gms| Protein: 68.3 Gms| Sodium: 3488.8 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds",
+          "price": 1035.62,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Party Specials (Save upto 37%) Chicken Wing Deal (Save upto 30%)",
+      "items": [
+        {
+          "item_name": "2 Crispy Chicken Burger + 4Pc Fried Wings + 2 Coca Cola",
+          "description": "Save Rs 160 | 2Crispy Chicken Burger + 4Pc Fried Wings + 2 Coca Cola",
+          "price": 359.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "11Pc Boneless Wings",
+          "description": "Save Rs 108 | 11pcs Boneless Bites",
+          "price": 329.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-14",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "2Pc Fried Wings+4Pc Boneless+4Pc Nuggets+3 Dips+1 Coca Cola",
+          "description": "Save Rs153 | 2Pc Fried Wings + 4Pc Boneless + 4Pc Nuggets + 3 Dips + 1 Coca Cola",
+          "price": 399.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-12",
+            "delivery-enabled",
+            "dt-beverages"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Desserts",
+      "items": [
+        {
+          "item_name": "Choco Lava Cup",
+          "description": "Melty Chocolate Filled In Cupcake \nQty: 80 Gms| Kcal: 349 | Carbs 44.4 Gms| Sugar: 16.9 Gms| Fat: 4.9 Gms| Saturated fat: 27.4 Gms| Protein: 3.6 Gms| Sodium: 112 Mg \nContains: Gluten, Soybean, Milk",
+          "price": 109.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-8",
+            "delivery-enabled",
+            "dt-desserts",
+            "dt-ice cream",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Chocolate Mousse Cup",
+          "description": "Airy And Creamy Chocolate Mousse Topped With Chocolate Ganache And Choco Chips \nQty: 80 Gms| Kcal: 200 | Carbs 35 Gms| Sugar: 25 Gms| Fat: 5.7 Gms| Saturated fat: 4.4 Gms| Protein: 2.2 Gms| Sodium: 67 Mg \nContains: Soybean, Milk",
+          "price": 119.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-5",
+            "delivery-enabled",
+            "dt-desserts",
+            "dt-ice cream",
+            "rating_4"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Soft Drinks",
+      "items": [
+        {
+          "item_name": "Coca Cola Medium",
+          "description": "Cola. Kcal: 190.1 | Carbs 52 Gms| Sugar: 52 Gms| Fat: 0 Gms| Saturated fat: 0 Gms| Protein: 0 Gms| Sodium: 38",
+          "price": 95.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "coke",
+            "mrp-item",
+            "non-gold",
+            "non-promo",
+            "packaged",
+            "non-refundable",
+            "commission-free",
+            "services",
+            "mrp-commission",
+            "kb-3",
+            "delivery-enabled",
+            "dt-beverages",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Fanta Medium",
+          "description": "",
+          "price": 95.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "fanta",
+            "mrp-item",
+            "non-gold",
+            "non-promo",
+            "packaged",
+            "non-refundable",
+            "commission-free",
+            "services",
+            "mrp-commission",
+            "kb-3",
+            "delivery-enabled",
+            "dt-beverages",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Sprite Medium",
+          "description": "",
+          "price": 95.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "sprite",
+            "mrp-item",
+            "non-gold",
+            "non-promo",
+            "packaged",
+            "non-refundable",
+            "commission-free",
+            "services",
+            "mrp-commission",
+            "reusable-confidence-score-1",
+            "kb-3",
+            "delivery-enabled",
+            "dt-beverages",
+            "rating_4"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "rating": 3.0,
+      "review_text": "Food arrived cold"
+    },
+    {
+      "rating": 1.0,
+      "review_text": "fries was too cold and straw was missing as always "
+    },
+    {
+      "rating": 1.0,
+      "review_text": "wrong order delivered pathetic job done by you guys"
+    },
+    {
+      "rating": 1.0,
+      "review_text": "very bad delivery boy theaf bhut pareshan kiya"
+    },
+    {
+      "rating": 1.0,
+      "review_text": "Coldrink was missing in the bag. in 350 Rs there was a puff, little Peri Peri and a burger. "
+    }
+  ]
+}

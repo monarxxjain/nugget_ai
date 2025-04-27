@@ -1,0 +1,1540 @@
+{
+  "restaurant_name": "Vint Club",
+  "description": "Chinese, Continental, Italian, Beverages, Asian, Fast Food, Desserts",
+  "location": {
+    "address": "Plot 2, IT Park, Amar Shaheed Path, Sushant Golf City, Sultanpur Road, IBB Sushant Golf City, Lucknow",
+    "city": "Lucknow",
+    "pincode": null,
+    "latitude": 26.864,
+    "longitude": 80.95
+  },
+  "contact": {
+    "phone": "+917408404863, +917408404862",
+    "email": null,
+    "website": null
+  },
+  "operating_hours": {
+    "Mon-Wed, Fri-Sun": "8am – 11:30pm",
+    "Thu": "12noon – 12midnight"
+  },
+  "features": [
+    "Cost for Two: ₹1,000 for two people (approx.) Without alcohol Exclusive of applicable taxes and charges, if any",
+    "Cost for Two: ₹140 for a pint of beer (approx.) ",
+    "Highlight: Takeaway Available",
+    "Highlight: Full Bar Available",
+    "Highlight: Indoor Seating",
+    "Highlight: Live Sports Screening",
+    "Highlight: Outdoor Seating",
+    "Highlight: Serves Cocktails",
+    "Highlight: Table booking recommended",
+    "Highlight: Live Music",
+    "Highlight: Live Entertainment",
+    "Highlight: Family Friendly",
+    "Cuisine: Chinese",
+    "Cuisine: Continental",
+    "Cuisine: Italian",
+    "Cuisine: Beverages",
+    "Cuisine: Asian",
+    "Cuisine: Fast Food",
+    "Cuisine: Desserts"
+  ],
+  "menu": [
+    {
+      "section": "Bao",
+      "items": [
+        {
+          "item_name": "Mushroom Chilli Bao",
+          "description": "Cheese Fritters, mushrooms, pickles, lettuce b/w soft steamed bao buns",
+          "price": 400.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Dynamite Chilli Chicken Bao",
+          "description": "Fried chicken, dynamite mayo, sauces, pickles, lettuce b/w soft steamed bao buns",
+          "price": 450.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Pizzeria",
+      "items": [
+        {
+          "item_name": "Paneer Tikka Pizza",
+          "description": "Thin crust pizza topped with Spicy paneer tikka, onion, capsicum and melted mozzarella cheese",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "delivery-enabled",
+            "bestseller"
+          ]
+        },
+        {
+          "item_name": "Margherita Pizza",
+          "description": "Thin crust pizza topped with melted mozzarella cheese, oven dried cherry tomato, basil leaf and basil oil",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Mushroom Pizza",
+          "description": "Thin crust pizza topped with saut�ed mushrooms, olives, tri-color peppers, and melted mozzarella cheese",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Provinciale Pizza",
+          "description": "Thin crust pizza topped with tomato, mushrooms, olives, tri-color peppers, and melted mozzarella cheese",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Veg Heart Shaped Farmhouse Pizza",
+          "description": "Heart-shaped thin crust pizza topped with tomato, mushrooms, olives, tri-color peppers, and melted mozzarella cheese Vegetable /Chicken",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Cheese & Corn Pizza",
+          "description": "Thin crust pizza topped with melted gooey cheese and sweet corn",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Tikka Pizza",
+          "description": "Smokey BBQ chicken tikka, cheered onion, chili flakes and mozzarella shredded cheese.",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Non Veg Heart Shaped Farmhouse Pizza",
+          "description": "Heart-shaped thin crust pizza topped with tomato, mushrooms, olives, tri-color peppers, and melted mozzarella cheese Vegetable /Chicken",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Pan Asian Starter",
+      "items": [
+        {
+          "item_name": "Chilli Paneer (Dry)",
+          "description": "Paneer cubes cooked with bold spices, bell peppers and a tangy sauce",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Honey Chilli Lotus Stem",
+          "description": "Crispy lotus stem fries drizzled with a tangy honey-chili sauce",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Vegetable Manchurian (Dry)",
+          "description": "Golden-fried vegetable dumplings simmered tossed in Indo-Chinese Sauce",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Paneer 65",
+          "description": "Deep-fried marinated paneer tossed with spices and vegetables",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Mushroom Chilli (Dry)",
+          "description": "Crispy mushroom cooked with bold spices and tangy sauces",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Crispy Corn Salt & Pepper",
+          "description": "Tempura-style battered corn kernels, paired with crunchy bell peppers and fiery hot chillies",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Kaffir Lime Spring Rolls",
+          "description": "Crispy spring rolls filled with vegetables seasoned with kaffir lime and served with a tangy dipping sauce",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Honey Chilli Potatoes",
+          "description": "Crispy potatoes fries tossed in a tangy honey chilli Sauce",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Crispy Honey Chicken",
+          "description": "Crispy chicken strips tossed in a sweet and savory honey sauce",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Salt & Paper",
+          "description": "Crispy boneless chicken coated in a thick sauce of saut�ed onions, veggies, salt, pepper and aromatic spices",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken 65",
+          "description": "Deep-fried marinated boneless chicken tossed with spices and vegetables",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Hawker'S Chilli Chicken (Dry)",
+          "description": "Tender boneless chicken cooked with bold spices, bell peppers and a tangy sauce topped with spring onion",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Lollipop",
+          "description": "Chicken marinated in spices, deep-fried to a crispy perfection and tossed in veggies & tangy sauce",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Fish Chilli (Dry)",
+          "description": "Tender fish cuts cooked with bold spices, bell peppers and a tangy sauce topped with spring onion",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Soup",
+      "items": [
+        {
+          "item_name": "Veg Suan La Tang - Hot & Sour Soup",
+          "description": "Tangy & savoury broth loaded with vegetables, and flavored with soy sauce, chilli and vinegar",
+          "price": 290.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Truffle-Infused Wild Mushroom Soup",
+          "description": "Creamy-velvety blend of wild mushrooms infused with aromatic truffle oil, served with garlic bread",
+          "price": 290.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Veg Corn & Coriander Soup",
+          "description": "A creamy velvety broth flavoured with sweet corn, fresh coriander and ginger",
+          "price": 290.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Cream Of Tomato Soup",
+          "description": "Perfect blend of creamy-smooth consistency and slight tanginess from the tomatoes, served with croutons",
+          "price": 290.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Veg Manchow",
+          "description": "Hearty thickened vegetable soup flavored with ginger, garlic, and soy sauce, topped with crispy noodle",
+          "price": 290.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Non Veg Suan La Tang - Hot & Sour Soup",
+          "description": "Tangy & savoury broth loaded with vegetables, and flavored with soy sauce, chilli and vinegar & Chicken",
+          "price": 390.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Non Veg Manchow",
+          "description": "Hearty thickened vegetable soup flavored with ginger, garlic, and soy sauce, topped with crispy noodle & Chicken",
+          "price": 390.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Non Veg Corn & Coriander Soup",
+          "description": "A creamy velvety broth flavoured with sweet corn, fresh coriander and ginger & Chicken",
+          "price": 390.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Indian Main Course",
+      "items": [
+        {
+          "item_name": "Paneer Do Pyaza",
+          "description": "Paneer cooked in desi ghee with double the onions and hot spices",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Paneer Lababdar",
+          "description": "Paneer cubes and grated paneer simmered in rich and creamy, cheese onion tomato sauce cooked with desi ghee..",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-11",
+            "delivery-enabled",
+            "bestseller"
+          ]
+        },
+        {
+          "item_name": "Kadhai Paneer",
+          "description": "Paneer cooked in Desi ghee with bell peppers, onions, and hot aromatic spices",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled",
+            "bestseller",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Paneer Butter Masala",
+          "description": "Paneer simmered in a smooth, silky, and buttery makhani gravy, cooked in desi ghee",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Mushroom Do Pyaaza",
+          "description": "Fresh button mushrooms cooked in desi ghee with double the onions and hot spices",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Tandoori Soya Chaap Masala",
+          "description": "Marinated soya chaap cooked in desi ghee with ginger, garlic, yogurt, red chili powder, and turmeric, garnished with fresh coriander",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Dal Tadka",
+          "description": "Cooked lentils tempered with desi ghee fried aromatics, onion and spices",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Dal Makhani",
+          "description": "Creamy dal makhani made with black lentils, kidney beans, and fenugreek leaves, slow-cooked in desi ghee and finished in a clay oven",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled",
+            "rating_4"
+          ]
+        },
+        {
+          "item_name": "Dum Aloo Banarasi",
+          "description": "Steamed and fried baby potatoes simmered in a spicy tomato-onion yogurt curry, cooked in desi ghee",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Mix Vegetable",
+          "description": "Stir-fried mixed vegetables with Indian spices, cooked in desi ghee and garnished with fresh coriander",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "reusable-confidence-score-2",
+            "kb-8",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Malai Kofta",
+          "description": "Soft paneer koftas in a rich & creamy tomato gravy, infused with aromatic spices and finished with a touch of garam masala",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Kadhai Chicken",
+          "description": "Chicken cooked in Desi ghee with bell peppers, onions, and hot aromatic spices.",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Lababdar",
+          "description": "Soft and tender chicken cooked with desi ghee simmered in rich creamy and cheese onion tomato sauce.",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Do Pyaza",
+          "description": "Chicken cooked in Desi ghee with double the onions and hot Indian spices",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Butter Chicken",
+          "description": "Soft and tender chicken cooked in Desi Ghee, simmered in smooth, silky and buttery makhani gravy",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Tikka Masala",
+          "description": "Boneless chicken marinated in yogurt and Indian spices, cooked in desi ghee and creamy rich tomato based gravy",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Mutton Do Pyaza",
+          "description": "Mutton cooked in Desi ghee with double the onions and hot Indian spices",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Mutton Bhuna Gosht",
+          "description": "Mutton cooked in Desi Ghee, red chilli and aromatic spiced gravy, garnished with coriander and ginger",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "kb-10",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Mutton Roganjosh",
+          "description": "Quintessential fiery and feisty mutton bone curry cooked in Desi Ghee, red chilli and Indian hot spices",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Pasta Rissoto",
+      "items": [
+        {
+          "item_name": "Veg Lasagne Primavera",
+          "description": "Layered pasta with exotic vegetable baked to perfection, served with Caesar salad and garlic bread Vegetable",
+          "price": 550.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Creamy Mixed Sauce Pasta",
+          "description": "Pasta tossed in a rich blend of Makhani sauce, with chicken a creamy and tangy sauce, served with garlic bread",
+          "price": 650.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Lasagne Primavera",
+          "description": "Layered pasta with exotic vegetable & chicken keema baked to perfection, served with Caesar salad and garlic bread",
+          "price": 650.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Conti Starters",
+      "items": [
+        {
+          "item_name": "Potato Wedges",
+          "description": "Crispy wedges sprinkled with home seasoning",
+          "price": 325.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Salted Fries",
+          "description": "Crispy on the outside, perfectly salted French fries",
+          "price": 300.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Peri Peri Fries",
+          "description": "Crispy fries, sprinkled with house made peri peri seasonings",
+          "price": 325.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Cheesy Potato Wedges",
+          "description": "Crispy wedges loaded with cheese",
+          "price": 375.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "I'M Stuffed Mushroom",
+          "description": "Golden crusted Mushroom stuffed with spinach & herbs, served with a zesty cocktail sauce",
+          "price": 450.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Quesadillas",
+          "description": "Grilled Mexican corn tortilla filled with a savory mixture of cheese, veggies and jalapeño served with salsa",
+          "price": 450.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Bruschetta",
+          "description": "French garlic loaf loaded with creamy blend of mushroom, caramelised onions and cheese",
+          "price": 450.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Loaded Cheesy Fries",
+          "description": "Crispy fries, loaded with cheese",
+          "price": 375.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Fish Finger",
+          "description": "Crispy, golden-breaded fish finger bites served with a tartar sauce",
+          "price": 625.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Fish And Chips",
+          "description": "Golden-fried battered fish fillets served with fries and a side of tartar sauce",
+          "price": 750.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Pan Asian Main Course",
+      "items": [
+        {
+          "item_name": "Veg Hakka Noodles",
+          "description": "Noodles tossed with stir-fried vegetables and simple Chinese sauces",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chilli Paneer (Gravy)",
+          "description": "Paneer cubes cooked with bold spices, bell peppers and a tangy sauce",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Veg Schezwan Noodle",
+          "description": "Noodles stir-fried with mushrooms, baby corn and other veggies in a bold-tangy Schezwan sauce",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Mushroom Chilli (Gravy)",
+          "description": "Crispy mushroom cooked with bold spices and tangy sauces",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Veg Chilli Garlic Noodles",
+          "description": "Stir-fried noodles tossed in a bold mix of garlic, chillies and spices for a fiery kick",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Vegetable Manchurian (Gravy)",
+          "description": "Golden-fried vegetable dumplings simmered tossed in Indo-Chinese Sauce",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Veg Fried Rice",
+          "description": "Rice stir-fried with fresh vegetables, aromatic spices and zesty Asian sauces",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Veg Cantonese Pan-Fried Noodles",
+          "description": "Veg Pan-fried noodles topped with clear sauce and stir-fried vegetables",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Egg Fried Rice",
+          "description": "Egg Rice stir-fried with fresh vegetables, aromatic spices and zesty Asian sauces",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "egg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Egg Hakka Noodles",
+          "description": "Egg Noodles tossed with stir-fried vegetables and simple Chinese sauces",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "egg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Egg Cantonese Pan-Fried Noodles",
+          "description": "Egg Pan-fried noodles topped with clear sauce and stir-fried vegetables",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "egg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Egg Chilli Garlic Noodles",
+          "description": "Stir-fried Egg noodles tossed in a bold mix of garlic, chillies and spices for a fiery kick",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "egg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Egg Schezwan Noodle",
+          "description": "Egg Noodles stir-fried with mushrooms, baby corn and other veggies in a bold-tangy Schezwan sauce",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "egg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Schezwan Noodle",
+          "description": "Chicken Noodles stir-fried with mushrooms, baby corn and other veggies in a bold-tangy Schezwan sauce",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Non Veg Fried Rice",
+          "description": "Chicken Rice stir-fried with fresh vegetables, aromatic spices and zesty Asian sauces",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Hakka Noodles",
+          "description": "Chicken Noodles tossed with stir-fried vegetables and simple Chinese sauces",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Chicken Chilli Garlic Noodles",
+          "description": "Stir-fried chicken noodles tossed in a bold mix of garlic, chillies and spices for a fiery kick",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Non Veg Cantonese Pan-Fried Noodles",
+          "description": "Non veg Pan-fried noodles topped with clear sauce and stir-fried vegetables",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Hawker'S Chilli Chicken (Gravy)",
+          "description": "Tender boneless chicken cooked with bold spices, bell peppers and a tangy sauce topped with spring onion",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Fish Chilli( Gravy)",
+          "description": "Tender fish cuts cooked with bold spices, bell peppers and a tangy sauce topped with spring onion",
+          "price": 0.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Raita and Salads",
+      "items": [
+        {
+          "item_name": "Veg Caesar Salad",
+          "description": "Lettuce, croutons, olive oil, olive, tomato, parmesan flakes & microgreen served in creamy & zesty Caesar dressing Vegetable",
+          "price": 290.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-13",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Mix Raita",
+          "description": "A sweet, tangy raita made with pineapple, offering a refreshing contrast to spicy foods.",
+          "price": 190.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Pineapple Raita",
+          "description": "A cool, creamy yogurt dish with crispy boondi for added crunch and flavor.",
+          "price": 190.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Boondi Raita",
+          "description": "A creamy yogurt mix with a variety of vegetables and spices, perfect to balance spicy meals.",
+          "price": 190.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-spicy",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Garden Green Salad",
+          "description": "Freshly cut tomatoes, onions, cucumber, carrot and radish in a basic vinaigrette style dressing",
+          "price": 220.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-13",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Masala Papad",
+          "description": "",
+          "price": 190.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Peanuts Masala",
+          "description": "",
+          "price": 190.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-13",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Non-Veg Caesar Salad",
+          "description": "Lettuce, croutons, olive oil, olive, tomato, parmesan flakes & microgreen served in creamy & zesty Caesar dressing Vegetable & Chicken",
+          "price": 350.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "kb-13",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Croissant",
+      "items": [
+        {
+          "item_name": "Ultimate Veggie Croissant Sandwich",
+          "description": "Flaky Buttery Croissant With Veggie Patty, Melted Cheese, Onion, Sauces, Pickles, Lettuce Served With Fries & Peri Peri Mayo",
+          "price": 375.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Croissant Grilled Cheese Sandwich",
+          "description": "Flaky Buttery Croissant Loaded With Cheese And Caramelised Onion Grilled To Perfection With Fries On The Side",
+          "price": 400.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Croissant Club Sandwich Veg",
+          "description": "Flaky Buttery Croissant With A Creamy Mix Of Veggies, Sauces, Cheese & Green Lettuce Served With Fries On Side Vegetable",
+          "price": 375.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "kb-5",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Croissant Mushroom Melt Sandwich",
+          "description": "Flaky Buttery Croissant, Cheese, Mushroom And Caramelised Onion Filling With Fries On The Side",
+          "price": 425.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-kid-friendly",
+            "sf-not-vegan",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Croissant Club Sandwich Chicken",
+          "description": "Flaky Buttery Croissant With A Creamy Mix Of Veggies, Sauces, Cheese & Green Lettuce Served With Fries On Side Chicken",
+          "price": 450.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "kb-5",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Croissant Chicken Keema Melt Sandwich",
+          "description": "Flaky buttery croissant, saucy chicken keema and cheese filling with fries on the side",
+          "price": 450.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Croissant Fried Chicken Sandwich",
+          "description": "Flaky buttery croissant with fried chicken, dynamite mayo, sour cream, onion and cheese served with fries & peri peri mayo",
+          "price": 450.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "sf-kid-friendly",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Dimsum",
+      "items": [
+        {
+          "item_name": "Wild Mushroom Creamy Dimsum",
+          "description": "(4Pcs) Delicate dimsum filled with creamy mushroom filling",
+          "price": 380.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Veg Chilli Oil Dimsum",
+          "description": "(4Pcs) Savory dimsum filled with choice of proteins mixed vegetables and drizzled with a flavorful chilli oil",
+          "price": 380.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Breads",
+      "items": [
+        {
+          "item_name": "Aloo Stuffed Kulcha",
+          "description": "",
+          "price": 150.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Onion Stuffed Kulcha",
+          "description": "",
+          "price": 150.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Paneer Stuffed Kulcha",
+          "description": "",
+          "price": 150.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Plain Naan",
+          "description": "",
+          "price": 95.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Mix Stuffed Kulcha",
+          "description": "",
+          "price": 150.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Garlic Naan",
+          "description": "",
+          "price": 135.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Butter Naan",
+          "description": "",
+          "price": 125.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "kb-11",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Lachha Paratha",
+          "description": "",
+          "price": 95.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Pudeena Paratha",
+          "description": "",
+          "price": 135.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Green Chilli Paratha",
+          "description": "",
+          "price": 125.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled",
+            "dt-breakfast"
+          ]
+        },
+        {
+          "item_name": "Tandoori Roti",
+          "description": "",
+          "price": 70.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Butter Tandoori Roti",
+          "description": "",
+          "price": 80.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Missi Roti",
+          "description": "",
+          "price": 100.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Conti Main Course",
+      "items": [
+        {
+          "item_name": "Grilled Paneer In Mushroom Sauce",
+          "description": "Juicy grilled paneer topped with mushroom sauce, served with mashed potato and sauteed vegetables on the side",
+          "price": 600.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "sf-not-vegan",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Grilled Chicken In Mushroom Sauce",
+          "description": "Juicy grilled chicken topped with mushroom sauce, served with rice and sauteed vegetables on the side",
+          "price": 700.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        },
+        {
+          "item_name": "Grilled Fish With Chilli Butter Sauce",
+          "description": "Grilled fish fillets tossed in a zesty chilli lemon butter sauce, served with rice and assorted vegetables on the side",
+          "price": 750.0,
+          "currency": "INR",
+          "tags": [
+            "non-veg",
+            "services",
+            "delivery-enabled"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Desserts",
+      "items": [
+        {
+          "item_name": "Chocolate Brownie With Vanilla Ice Cream",
+          "description": "Fudgy decadent chocolate brownie topped with 1 scoop of vanilla ice cream",
+          "price": 275.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "delivery-enabled",
+            "dt-desserts",
+            "dt-ice cream"
+          ]
+        },
+        {
+          "item_name": "Gulab Jamun (2Pcs)",
+          "description": "Soft And Warm Gulab Jamuns Stuffed With A Delicious Filling, Soaked In Sweet Syrup.",
+          "price": 180.0,
+          "currency": "INR",
+          "tags": [
+            "veg",
+            "services",
+            "category-slab-1",
+            "kb-5",
+            "delivery-enabled",
+            "dt-sweets",
+            "dt-desserts"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "rating": 5.0,
+      "review_text": "Geat services by rupesh pathak"
+    },
+    {
+      "rating": 5.0,
+      "review_text": "Rupesh pathak is very kind and coperative thanku so much for making us time good."
+    },
+    {
+      "rating": 5.0,
+      "review_text": "thankyou Rishab, Bhagwan Singh for the excellent service"
+    },
+    {
+      "rating": 5.0,
+      "review_text": "The food was tasty. paneer tikka pizza was amazing. Lotus stem honey chili is a must try. "
+    },
+    {
+      "rating": 5.0,
+      "review_text": "service by mayank shukla"
+    }
+  ]
+}
