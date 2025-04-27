@@ -21,8 +21,8 @@ This project combines web scraping and Retrieval-Augmented Generation (RAG) to b
 
 #### 1. Clone the Repository
 ```bash
-git clone <your-repo-link>
-cd <repo-folder>
+git clone https://github.com/monarxxjain/nugget_ai.git
+cd nugget_ai
 ```
 
 #### 2. Install Python Dependencies
